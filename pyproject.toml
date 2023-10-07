@@ -2,7 +2,7 @@
 name = "sociometryclustering"
 version = "0.1.0"
 description = ""
-authors = ["Michkail <55208634+Michkail@users.noreply.github.com>"]
+authors = ["Michkail <michkail@pm.me>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
