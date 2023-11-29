@@ -1,0 +1,4511 @@
+{
+    "data": [
+        [
+            {
+                "id": "A8ACA7C8A9793912E040640A040269BB",
+                "instansi": "Kementerian Perhubungan",
+                "nama": "AGUS NURCAHYONO",
+                "nik": "3522201908750001",
+                "nipBaru": "197508192008121001",
+                "tempatLahir": "BOJONEGORO",
+                "tglLahir": "1975-08-19"
+            },
+            {
+                "id": "A8ACA7EA9F8D3912E040640A040269BB",
+                "instansi": "Kementerian Pertanian",
+                "nama": "AGUS NURCHOLIS",
+                "nik": "3174041611730007",
+                "nipBaru": "197311161997031001",
+                "tempatLahir": "SEMARANG",
+                "tglLahir": "1973-11-16"
+            },
+            {
+                "id": "A8ACA7AE3CB83912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS NURDIN",
+                "nik": "3173032405770003",
+                "nipBaru": "197705242007011012",
+                "tempatLahir": "SERANG",
+                "tglLahir": "1977-05-24"
+            },
+            {
+                "id": "000000006e5d5190016e5d5fe99e0edf",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS NURDIN",
+                "nik": "3674061608850003",
+                "nipBaru": "198508162020121003",
+                "tempatLahir": "BANDUNG",
+                "tglLahir": "1985-08-16"
+            },
+            {
+                "id": "A8ACA7A399463912E040640A040269BB",
+                "instansi": "Kementerian Pertanian",
+                "nama": "AGUS NURDIN",
+                "nik": "3276021708730003",
+                "nipBaru": "197308172001121002",
+                "tempatLahir": "KUNINGAN",
+                "tglLahir": "1973-08-17"
+            },
+            {
+                "id": "A8ACA7B9DE243912E040640A040269BB",
+                "instansi": "Kementerian Perhubungan",
+                "nama": "AGUS NURDIYANTO",
+                "nik": "3311091107850002",
+                "nipBaru": "198507112009121002",
+                "tempatLahir": "SUKOHARJO",
+                "tglLahir": "1985-07-11"
+            },
+            {
+                "id": "38868A11C5AD5CE9E050640A2902B8BF",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS NURHIDAYAT",
+                "nik": "3172052608670003",
+                "nipBaru": "196708262016111001",
+                "tempatLahir": "SEMARANG",
+                "tglLahir": "1967-08-26"
+            },
+            {
+                "id": "A8ACA7B32FDB3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS NURSALIM",
+                "nik": "3172040308710007",
+                "nipBaru": "197108031996031002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1971-08-03"
+            },
+            {
+                "id": "A8ACA7B154133912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS NURSIWAN",
+                "nik": "3172050808670003",
+                "nipBaru": "196708082007011044",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1967-08-08"
+            },
+            {
+                "id": "8ae4838c5e9f1c94015ea43fce2e5eec",
+                "instansi": "Arsip Nasional Republik Indonesia",
+                "nama": "AGUS NURUL IMAN",
+                "nik": "3174061708930006",
+                "nipBaru": "199308172018011001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1993-08-17"
+            },
+            {
+                "id": "A8ACA74E68073912E040640A040269BB",
+                "instansi": "Kementerian Agama",
+                "nama": "AGUS NURUL SARIPUDIN",
+                "nik": "3216061008740028",
+                "nipBaru": "197408102009011007",
+                "tempatLahir": "CIANJUR",
+                "tglLahir": "1974-08-10"
+            },
+            {
+                "id": "A8ACA775DADE3912E040640A040269BB",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS NURYAMIN",
+                "nik": "3279011704740001",
+                "nipBaru": "197404172007101002",
+                "tempatLahir": "BANDUNG",
+                "tglLahir": "1974-04-17"
+            },
+            {
+                "id": "A8ACA7B42E553912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PANJI SUSILO",
+                "nik": "3201260106650001",
+                "nipBaru": "196506011998031008",
+                "tempatLahir": "SERANG",
+                "tglLahir": "1965-06-01"
+            },
+            {
+                "id": "A8ACA7EE099E3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PARMANTA",
+                "nik": "3671111408700001",
+                "nipBaru": "197008142008011021",
+                "tempatLahir": "KLATEN",
+                "tglLahir": "1970-08-14"
+            },
+            {
+                "id": "613A60D18F8DA26FE050640A2A026106",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS PERANANTA HABEAHAN",
+                "nik": "1271091708980004",
+                "nipBaru": "199808172018011001",
+                "tempatLahir": "MEDAN",
+                "tglLahir": "1998-08-17"
+            },
+            {
+                "id": "A8ACA7B165103912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRAMONO",
+                "nik": "3173071408660005",
+                "nipBaru": "196608142000121002",
+                "tempatLahir": "SURAKARTA",
+                "tglLahir": "1966-08-14"
+            },
+            {
+                "id": "A8ACA7ADE0BC3912E040640A040269BB",
+                "instansi": "Badan Pusat Statistik ",
+                "nama": "AGUS PRAMONO",
+                "nik": "3578141808810002",
+                "nipBaru": "198108182011011013",
+                "tempatLahir": "SURABAYA",
+                "tglLahir": "1981-08-18"
+            },
+            {
+                "id": "A8ACA781BE7F3912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS PRAMONO",
+                "nik": "3302251308810002",
+                "nipBaru": "198108132010121002",
+                "tempatLahir": "BREBES",
+                "tglLahir": "1981-08-13"
+            },
+            {
+                "id": "A8ACA75AD0793912E040640A040269BB",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS PRAMONO",
+                "nik": "3275080602680019",
+                "nipBaru": "196802061990101001",
+                "tempatLahir": "NGAWI",
+                "tglLahir": "1968-02-06"
+            },
+            {
+                "id": "A8ACA7B3C0563912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRAMONO",
+                "nik": "3275031708790023",
+                "nipBaru": "197908171998031003",
+                "tempatLahir": "PURBALINGGA",
+                "tglLahir": "1979-08-17"
+            },
+            {
+                "id": "A8ACA7B1D2D33912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRAMONO",
+                "nik": "3276101308650001",
+                "nipBaru": "196508131986031008",
+                "tempatLahir": "BANDUNG",
+                "tglLahir": "1965-08-13"
+            },
+            {
+                "id": "997A3950220D81D3E050640A2903289B",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS PRAMUDYA MAHARDIKA",
+                "nik": "3318100108000005",
+                "nipBaru": "200008012019121001",
+                "tempatLahir": "BOGOR",
+                "tglLahir": "2000-08-01"
+            },
+            {
+                "id": "A8ACA7C527133912E040640A040269BB",
+                "instansi": "Komisi Aparatur Sipil Negara",
+                "nama": "AGUS PRAMUSINTO",
+                "nik": "3404111012630004",
+                "nipBaru": "196312101993091001",
+                "tempatLahir": "PEMALANG",
+                "tglLahir": "1963-12-10"
+            },
+            {
+                "id": "A8ACA74A34313912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS PRANOTO",
+                "nik": "3276050709790009",
+                "nipBaru": "197909072001121003",
+                "tempatLahir": "DEMAK",
+                "tglLahir": "1979-09-07"
+            },
+            {
+                "id": "A8ACA7A61A2F3912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS PRANOTO",
+                "nik": "3273152308650008",
+                "nipBaru": "196508231985031003",
+                "tempatLahir": "BOGOR",
+                "tglLahir": "1965-08-23"
+            },
+            {
+                "id": "A8ACA7EDB3533912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRASETIYO",
+                "nik": "3175092408760017",
+                "nipBaru": "197608242008011024",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1976-08-24"
+            },
+            {
+                "id": "A8ACA7B3D5D83912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRASETIYO",
+                "nik": "3175062508690002",
+                "nipBaru": "196908251996031002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1969-08-25"
+            },
+            {
+                "id": "A8ACA7B4E1373912E040640A040269BB",
+                "instansi": "Kementerian Perhubungan",
+                "nama": "AGUS PRASETIYONO",
+                "nik": "3276051308770001",
+                "nipBaru": "197708132003121001",
+                "tempatLahir": "KLATEN",
+                "tglLahir": "1977-08-13"
+            },
+            {
+                "id": "A8ACA7A2C71A3912E040640A040269BB",
+                "instansi": "Komisi Pemberantasan Korupsi",
+                "nama": "AGUS PRASETYA RAHARJA",
+                "nik": "3471070504710001",
+                "nipBaru": "197104051999031001",
+                "tempatLahir": "D I YOGYAKARTA",
+                "tglLahir": "1971-04-05"
+            },
+            {
+                "id": "A8ACA7739C6F3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRASETYO",
+                "nik": "3175090808831001",
+                "nipBaru": "198308082008011018",
+                "tempatLahir": "KEBUMEN",
+                "tglLahir": "1983-08-08"
+            },
+            {
+                "id": "7E2C0FACA921B6DDE050640A3C0313D4",
+                "instansi": "Badan Standardisasi Nasional ",
+                "nama": "AGUS PRASETYO",
+                "nik": "3174071803940006",
+                "nipBaru": "199403182019031003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1994-03-18"
+            },
+            {
+                "id": "A8ACA79072583912E040640A040269BB",
+                "instansi": "Badan Siber dan Sandi Negara",
+                "nama": "AGUS PRASETYO",
+                "nik": "3276012808740014",
+                "nipBaru": "197408281995121001",
+                "tempatLahir": "BANDUNG",
+                "tglLahir": "1974-08-28"
+            },
+            {
+                "id": "A8ACA761D9223912E040640A040269BB",
+                "instansi": "Kementerian Kelautan dan Perikanan",
+                "nama": "AGUS PRASETYO",
+                "nik": "3275012811820022",
+                "nipBaru": "198211282009121001",
+                "tempatLahir": "JAKARTA TIMUR",
+                "tglLahir": "1982-11-28"
+            },
+            {
+                "id": "A8ACA78E82933912E040640A040269BB",
+                "instansi": "Kementerian Lingkungan Hidup dan Kehutanan",
+                "nama": "AGUS PRASETYO",
+                "nik": "3216021708720022",
+                "nipBaru": "197208172003121004",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1972-08-17"
+            },
+            {
+                "id": "A8ACA79D1FB03912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRASETYO",
+                "nik": "3175020808910003",
+                "nipBaru": "199108082011011001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1991-08-08"
+            },
+            {
+                "id": "A8ACA74C6A893912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS PRASETYO NURYADI",
+                "nik": "3320031105850001",
+                "nipBaru": "198505112010121002",
+                "tempatLahir": "DEMAK",
+                "tglLahir": "1985-05-11"
+            },
+            {
+                "id": "A8ACA74631413912E040640A040269BB",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS PRATAMA",
+                "nik": "6471030308870005",
+                "nipBaru": "198708032008011002",
+                "tempatLahir": "SAMARINDA",
+                "tglLahir": "1987-08-03"
+            },
+            {
+                "id": "A8ACA7D46B203912E040640A040269BB",
+                "instansi": "Badan Pemeriksa Keuangan",
+                "nama": "AGUS PRATAMA",
+                "nik": "3201012808840002",
+                "nipBaru": "198408282007101001",
+                "tempatLahir": "BOGOR",
+                "tglLahir": "1984-08-28"
+            },
+            {
+                "id": "A8ACA7904CD03912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS PRATOMO",
+                "nik": "3318100508890004",
+                "nipBaru": "198908052010121003",
+                "tempatLahir": "PATI",
+                "tglLahir": "1989-08-05"
+            },
+            {
+                "id": "A8ACA7B0157D3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRAYITNO",
+                "nik": "3174031708690015",
+                "nipBaru": "196908171988081001",
+                "tempatLahir": "SEMARANG",
+                "tglLahir": "1969-08-17"
+            },
+            {
+                "id": "A8ACA7BAAF1C3912E040640A040269BB",
+                "instansi": "Kementerian Investasi/Badan Koordinasi Penanaman Modal",
+                "nama": "AGUS PRAYITNO",
+                "nik": "3174030508800012",
+                "nipBaru": "198008052005011006",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1980-08-05"
+            },
+            {
+                "id": "A8ACA7E5527C3912E040640A040269BB",
+                "instansi": "Badan Pemeriksa Keuangan",
+                "nama": "AGUS PRAYITNO",
+                "nik": "3276040308690006",
+                "nipBaru": "196808141999031004",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1968-08-14"
+            },
+            {
+                "id": "A8ACA7B60B143912E040640A040269BB",
+                "instansi": "Kementerian Pemuda dan Olahraga",
+                "nama": "AGUS PRAYITNO",
+                "nik": "3216061608660016",
+                "nipBaru": "196608161989031005",
+                "tempatLahir": "MADIUN",
+                "tglLahir": "1966-08-16"
+            },
+            {
+                "id": "A8ACA74A66C63912E040640A040269BB",
+                "instansi": "Kementerian Investasi/Badan Koordinasi Penanaman Modal",
+                "nama": "AGUS PRAYITNO",
+                "nik": "3276032304720002",
+                "nipBaru": "197204231994031004",
+                "tempatLahir": "PURBALINGGA",
+                "tglLahir": "1972-04-23"
+            },
+            {
+                "id": "A8ACA747E6D03912E040640A040269BB",
+                "instansi": "LEMBAGA PENYIARAN PUBLIK TELEVISI REPUBLIK INDONESIA",
+                "nama": "AGUS PRAYITNO",
+                "nik": "3276102608670001",
+                "nipBaru": "196708261993031004",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1967-08-26"
+            },
+            {
+                "id": "000000006e63976c016e63c23d512add",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRAYITNO",
+                "nik": "3201151708850020",
+                "nipBaru": "198508172020121006",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1985-08-17"
+            },
+            {
+                "id": "A8ACA7B62CA23912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRAYITNO",
+                "nik": "3175091908760002",
+                "nipBaru": "197608192009041002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1976-08-19"
+            },
+            {
+                "id": "7E21280FEE36890FE050640A3C035973",
+                "instansi": "Badan Narkotika Nasional",
+                "nama": "AGUS PRAYITNO WIJANA ",
+                "nik": "5203132408880001",
+                "nipBaru": "198808242019021005",
+                "tempatLahir": "LOMBOK TIMUR",
+                "tglLahir": "1988-08-24"
+            },
+            {
+                "id": "8ae4838c5e84d30a015e8ac06d7d7314",
+                "instansi": "Kementerian Pemuda dan Olahraga",
+                "nama": "AGUS PRESTIANTO",
+                "nik": "3314100708950007",
+                "nipBaru": "199508072018011003",
+                "tempatLahir": "SRAGEN",
+                "tglLahir": "1995-08-07"
+            },
+            {
+                "id": "F3C1E3F15D9B17DDE040640A020207D4",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRIANTO",
+                "nik": "3175090409840009",
+                "nipBaru": "198409042014121003",
+                "tempatLahir": "JATINAGARA",
+                "tglLahir": "1984-09-04"
+            },
+            {
+                "id": "011B3BC007BED4ADE050640A150265B3",
+                "instansi": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+                "nama": "AGUS PRIANTO",
+                "nik": "2172041908760003",
+                "nipBaru": "197608192014091001",
+                "tempatLahir": "BINTAN",
+                "tglLahir": "1976-08-19"
+            },
+            {
+                "id": "F3C207772BF47A5CE040640A020221AC",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRIATNO",
+                "nik": "3172042108760001",
+                "nipBaru": "197608212014121004",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1976-08-21"
+            },
+            {
+                "id": "A8ACA796D3543912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS PRIBADI",
+                "nik": "3275082306880012",
+                "nipBaru": "198806232010121002",
+                "tempatLahir": "BLORA",
+                "tglLahir": "1988-06-23"
+            },
+            {
+                "id": "0CF9A7D9BAE8E4E6E050640A15022A11",
+                "instansi": "Badan Pelindungan Pekerja Migran Indonesia",
+                "nama": "AGUS PRICHANTI",
+                "nik": "3304015708860001",
+                "nipBaru": "198608172015022002",
+                "tempatLahir": "BANJARNEGARA",
+                "tglLahir": "1986-08-17"
+            },
+            {
+                "id": "A8ACA78D1DCA3912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS PRIHARTONO",
+                "nik": "3674070906750002",
+                "nipBaru": "197506092005021001",
+                "tempatLahir": "BANDUNG",
+                "tglLahir": "1975-06-09"
+            },
+            {
+                "id": "A8ACA7E8298A3912E040640A040269BB",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS PRIHONO",
+                "nik": "3674062508670002",
+                "nipBaru": "196708251990031001",
+                "tempatLahir": "TEGAL",
+                "tglLahir": "1967-08-25"
+            },
+            {
+                "id": "A8ACA7B45FEB3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRIJANTO",
+                "nik": "3201030112650002",
+                "nipBaru": "196512011993121002",
+                "tempatLahir": "TEMANGGUNG",
+                "tglLahir": "1965-12-01"
+            },
+            {
+                "id": "A8ACA7CBFCF33912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS PRINANGGAR",
+                "nik": "3273132708830003",
+                "nipBaru": "198308272004121001",
+                "tempatLahir": "MADIUN",
+                "tglLahir": "1983-08-27"
+            },
+            {
+                "id": "A8ACA748C6943912E040640A040269BB",
+                "instansi": "Kementerian Luar Negeri",
+                "nama": "AGUS PRIONO",
+                "nik": "3276051011670012",
+                "nipBaru": "196711101993081001",
+                "tempatLahir": "MAGELANG",
+                "tglLahir": "1967-11-10"
+            },
+            {
+                "id": "A8ACA7AD5F623912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRIYADI",
+                "nik": "3171070808660001",
+                "nipBaru": "196608081994031004",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1966-08-08"
+            },
+            {
+                "id": "A8ACA7ED36663912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRIYADI",
+                "nik": "3174011808750011",
+                "nipBaru": "197508182008011023",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1975-08-18"
+            },
+            {
+                "id": "A8ACA77392CE3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRIYANTI",
+                "nik": "3172025708840010",
+                "nipBaru": "198408172008012011",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1984-08-17"
+            },
+            {
+                "id": "A8ACA7AE1C6B3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRIYANTO",
+                "nik": "3174051508760008",
+                "nipBaru": "197608152007011021",
+                "tempatLahir": "PURWOREJO",
+                "tglLahir": "1976-08-15"
+            },
+            {
+                "id": "000000006e5d5172016e5d7912fa335b",
+                "instansi": "Badan Pengawas Obat dan Makanan ",
+                "nama": "AGUS PRIYANTO",
+                "nik": "3275041408870009",
+                "nipBaru": "198708152020121002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1987-08-15"
+            },
+            {
+                "id": "A8ACA76003653912E040640A040269BB",
+                "instansi": "Komisi Pemberantasan Korupsi",
+                "nama": "AGUS PRIYANTO",
+                "nik": "3275031709730021",
+                "nipBaru": "197309171994021001",
+                "tempatLahir": "SEMARANG",
+                "tglLahir": "1973-09-17"
+            },
+            {
+                "id": "A8ACA7EB53493912E040640A040269BB",
+                "instansi": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+                "nama": "AGUS PRIYANTO",
+                "nik": "3674050909750002",
+                "nipBaru": "197509092006041008",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1975-09-09"
+            },
+            {
+                "id": "A8ACA7BAC1A93912E040640A040269BB",
+                "instansi": "Lembaga Administrasi Negara ",
+                "nama": "AGUS PRIYANTO",
+                "nik": "3175070708720008",
+                "nipBaru": "197208072005011001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1972-08-07"
+            },
+            {
+                "id": "A8ACA7B0415A3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRIYATMO",
+                "nik": "3173070708650005",
+                "nipBaru": "196508071986031011",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1965-08-07"
+            },
+            {
+                "id": "A8ACA7E212F63912E040640A040269BB",
+                "instansi": "Kementerian Hukum dan Hak Asasi Manusia",
+                "nama": "AGUS PRIYATNA",
+                "nik": "3671071408820016",
+                "nipBaru": "198208142009011008",
+                "tempatLahir": "TANGERANG",
+                "tglLahir": "1982-08-14"
+            },
+            {
+                "id": "A8ACA7B1CCA03912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRIYONO",
+                "nik": "3172061508640001",
+                "nipBaru": "196508161988031007",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1965-08-16"
+            },
+            {
+                "id": "A8ACA7EAAC2F3912E040640A040269BB",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS PRIYONO",
+                "nik": "3175080104800001",
+                "nipBaru": "198004012007011001",
+                "tempatLahir": "BANYUMAS",
+                "tglLahir": "1980-04-01"
+            },
+            {
+                "id": "054B05C1D2D7B910E050640A15022F1E",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS PRIYONO",
+                "nik": "3313011508920001",
+                "nipBaru": "199208152014111001",
+                "tempatLahir": "KARANGANYAR",
+                "tglLahir": "1992-08-15"
+            },
+            {
+                "id": "EF101D1DAD6CC22AE040640A02023DD3",
+                "instansi": "Sekretariat Jenderal DPR RI",
+                "nama": "AGUS PRIYONO",
+                "nik": "3175052807840006",
+                "nipBaru": "198407282014021001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1984-07-28"
+            },
+            {
+                "id": "A8ACA7E3E95C3912E040640A040269BB",
+                "instansi": "Kementerian Perhubungan",
+                "nama": "AGUS PRIYONO",
+                "nik": "3171030708830002",
+                "nipBaru": "198308072009121002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1983-08-07"
+            },
+            {
+                "id": "A8ACA74A9DC43912E040640A040269BB",
+                "instansi": "Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif",
+                "nama": "AGUS PRIYONO",
+                "nik": "3174010608630007",
+                "nipBaru": "196308061991031001",
+                "tempatLahir": "BANYUMAS",
+                "tglLahir": "1963-08-06"
+            },
+            {
+                "id": "A8ACA7B3AB383912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PRIYONO",
+                "nik": "3172022208590011",
+                "nipBaru": "195908221989071001",
+                "tempatLahir": "SEMARANG",
+                "tglLahir": "1959-08-22"
+            },
+            {
+                "id": "A8ACA7F35A703912E040640A040269BB",
+                "instansi": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+                "nama": "AGUS PUDJIJONO",
+                "nik": "3275121908800005",
+                "nipBaru": "198008192005021003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1980-08-19"
+            },
+            {
+                "id": "A8ACA78A72493912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS PUGUH TRIYONO",
+                "nik": "3674030903680008",
+                "nipBaru": "196803091998031001",
+                "tempatLahir": "SEMARANG",
+                "tglLahir": "1968-03-09"
+            },
+            {
+                "id": "A8ACA74562413912E040640A040269BB",
+                "instansi": "Mahkamah Agung RI",
+                "nama": "AGUS PUJI MULYONO",
+                "nik": "3671071510810005",
+                "nipBaru": "198110152006041003",
+                "tempatLahir": "TANGERANG",
+                "tglLahir": "1981-10-15"
+            },
+            {
+                "id": "A8ACA7483D4D3912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS PUJI PRASETYONO",
+                "nik": "3674011408590005",
+                "nipBaru": "195908141987111001",
+                "tempatLahir": "SALATIGA",
+                "tglLahir": "1959-08-14"
+            },
+            {
+                "id": "A8ACA7E240D43912E040640A040269BB",
+                "instansi": "Kementerian Hukum dan Hak Asasi Manusia",
+                "nama": "AGUS PUJIONO",
+                "nik": "3172022508780022",
+                "nipBaru": "197808252001121001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1978-08-25"
+            },
+            {
+                "id": "A8ACA7B096543912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PURBYANTORO",
+                "nik": "3172022508640006",
+                "nipBaru": "196408251989031005",
+                "tempatLahir": "KEBUMEN",
+                "tglLahir": "1964-08-25"
+            },
+            {
+                "id": "A8ACA7EDE9073912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PURNAMA",
+                "nik": "3173080306790001",
+                "nipBaru": "197906032008011027",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1979-06-03"
+            },
+            {
+                "id": "A8ACA7E717993912E040640A040269BB",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS PURNAMA",
+                "nik": "3674032908670008",
+                "nipBaru": "196708091989021001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1967-08-09"
+            },
+            {
+                "id": "A8ACA7453FD73912E040640A040269BB",
+                "instansi": "Badan Siber dan Sandi Negara",
+                "nama": "AGUS PURNAMA",
+                "nik": "3175041808810006",
+                "nipBaru": "198108182006041003",
+                "tempatLahir": "SINGKAWANG",
+                "tglLahir": "1981-08-18"
+            },
+            {
+                "id": "A8ACA7B671413912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PURNOMO",
+                "nik": "3173061508820005",
+                "nipBaru": "198208152009041006",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1982-08-15"
+            },
+            {
+                "id": "A8ACA743D1783912E040640A040269BB",
+                "instansi": "Kepolisian Negara",
+                "nama": "AGUS PURNOMO",
+                "nik": "3174040908840006",
+                "nipBaru": "198408092006041001",
+                "tempatLahir": "BREBES",
+                "tglLahir": "1984-08-09"
+            },
+            {
+                "id": "A8ACA76646733912E040640A040269BB",
+                "instansi": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+                "nama": "AGUS PURNOMO",
+                "nik": "3304111508840001",
+                "nipBaru": "198408152010121001",
+                "tempatLahir": "BANJARNEGARA",
+                "tglLahir": "1984-08-15"
+            },
+            {
+                "id": "A8ACA7451A923912E040640A040269BB",
+                "instansi": "Badan Siber dan Sandi Negara",
+                "nama": "AGUS PURNOMO",
+                "nik": "3276021511740012",
+                "nipBaru": "197411152006041004",
+                "tempatLahir": "DEPOK",
+                "tglLahir": "1974-11-15"
+            },
+            {
+                "id": "A8ACA7D7F46C3912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS PURNOMO",
+                "nik": "3276030808680001",
+                "nipBaru": "196808082009101001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1968-08-08"
+            },
+            {
+                "id": "A8ACA7BBA0CF3912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS PURNOMO",
+                "nik": "3674061008760003",
+                "nipBaru": "197608102005011002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1976-08-10"
+            },
+            {
+                "id": "8ae4838e6e5bac52016e5bc62bfb0c7a",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PURNOMO",
+                "nik": "3302200508930004",
+                "nipBaru": "199308052020121017",
+                "tempatLahir": "BANYUMAS",
+                "tglLahir": "1993-08-05"
+            },
+            {
+                "id": "A8ACA7B15A0C3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PURNOMO",
+                "nik": "3201201708700005",
+                "nipBaru": "197008172007011061",
+                "tempatLahir": "KEBUMEN",
+                "tglLahir": "1970-08-17"
+            },
+            {
+                "id": "B7A70D7CE1B18DD2E050640A290313AC",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS PURNOMO AJI",
+                "nik": "3308120608990001",
+                "nipBaru": "199908062021011003",
+                "tempatLahir": "MAGELANG",
+                "tglLahir": "1999-08-06"
+            },
+            {
+                "id": "A8ACA7C683E13912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS PURNOMO RIVAI",
+                "nik": "3174102708690007",
+                "nipBaru": "196908272007011001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1969-08-27"
+            },
+            {
+                "id": "A8ACA790DF5F3912E040640A040269BB",
+                "instansi": "Badan Pengawasan Keuangan dan Pembangunan",
+                "nama": "AGUS PURUHITAARGA  PURNOMO WIDODO",
+                "nik": "00",
+                "nipBaru": "196808091989031001",
+                "tempatLahir": "SEMARANG",
+                "tglLahir": "1968-08-09"
+            },
+            {
+                "id": "A8ACA7C57C973912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS PURWADI",
+                "nik": "3671060208700002",
+                "nipBaru": "197008022001121001",
+                "tempatLahir": "WONOGIRI",
+                "tglLahir": "1970-08-02"
+            },
+            {
+                "id": "A8ACA7BA99623912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS PURWADIANTO",
+                "nik": "3171080911540001",
+                "nipBaru": "195411091980031004",
+                "tempatLahir": "YOGYAKARTA",
+                "tglLahir": "1954-11-09"
+            },
+            {
+                "id": "2688CB465EC8CA73E050640A020276BF",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PURWANTA",
+                "nik": "3275121612640002",
+                "nipBaru": "196412162016051001",
+                "tempatLahir": "GROBOGAN",
+                "tglLahir": "1964-12-16"
+            },
+            {
+                "id": "A8ACA7B178053912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PURWANTI",
+                "nik": "3171046608710002",
+                "nipBaru": "197108262007012012",
+                "tempatLahir": "KALIMANTAN TENGAH",
+                "tglLahir": "1971-08-26"
+            },
+            {
+                "id": "A8ACA7EA05DA3912E040640A040269BB",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS PURWANTI",
+                "nik": "3275084408850024",
+                "nipBaru": "198508042007122001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1985-08-04"
+            },
+            {
+                "id": "A8ACA7B35EA73912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PURWANTO",
+                "nik": "3173050508660006",
+                "nipBaru": "196608051990081001",
+                "tempatLahir": "NGAWI",
+                "tglLahir": "1966-08-05"
+            },
+            {
+                "id": "A8ACA746BC083912E040640A040269BB",
+                "instansi": "Kementerian Perdagangan",
+                "nama": "AGUS PURWANTO",
+                "nik": "3302202708640003",
+                "nipBaru": "196408271993031004",
+                "tempatLahir": "BANYUMAS",
+                "tglLahir": "1964-08-27"
+            },
+            {
+                "id": "A8ACA7ADA60D3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PURWANTO",
+                "nik": "3173080608720006",
+                "nipBaru": "197208061992031005",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1972-08-06"
+            },
+            {
+                "id": "F3C2442406B46DBEE040640A02024C07",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PURWANTO",
+                "nik": "3174062010840005",
+                "nipBaru": "198410202014081004",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1984-10-20"
+            },
+            {
+                "id": "A8ACA7B982B93912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PURWANTO",
+                "nik": "3275052808680020",
+                "nipBaru": "196808281990031008",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1968-08-28"
+            },
+            {
+                "id": "8ae4838e6e68ba37016e6a8f0971397a",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS PURWANTO MANIK",
+                "nik": "1702172308860001",
+                "nipBaru": "198608232020121006",
+                "tempatLahir": "REJANG LEBONG",
+                "tglLahir": "1986-08-23"
+            },
+            {
+                "id": "A8ACA75AF2AA3912E040640A040269BB",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS PURWONO",
+                "nik": "3674010908710001",
+                "nipBaru": "197108091991031002",
+                "tempatLahir": "BANYUMAS",
+                "tglLahir": "1971-08-09"
+            },
+            {
+                "id": "A8ACA74713C23912E040640A040269BB",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS PURWONO KARTIKO",
+                "nik": "3174062708700001",
+                "nipBaru": "197008271993031001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1970-08-27"
+            },
+            {
+                "id": "A8ACA7C9E0F83912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS PUTRA AS",
+                "nik": "1174022708800003",
+                "nipBaru": "198008272005041002",
+                "tempatLahir": "LANGSA",
+                "tglLahir": "1980-08-27"
+            },
+            {
+                "id": "A8ACA7D86E6E3912E040640A040269BB",
+                "instansi": "Badan Pemeriksa Keuangan",
+                "nama": "AGUS PUTRA WISNU WARDHANA",
+                "nik": "3674042908820005",
+                "nipBaru": "198208292008081001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1982-08-29"
+            },
+            {
+                "id": "A8ACA74723683912E040640A040269BB",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS PUTRIANA",
+                "nik": "3674044308840006",
+                "nipBaru": "198408032008122001",
+                "tempatLahir": "SRAGEN",
+                "tglLahir": "1984-08-03"
+            },
+            {
+                "id": "A8ACA78D2B353912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS RACHMADI",
+                "nik": "3674071312650004",
+                "nipBaru": "196512131986031002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1965-12-13"
+            },
+            {
+                "id": "A8ACA7B0DC5B3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS RACHMAN",
+                "nik": "3275022008710004",
+                "nipBaru": "197108201993031005",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1971-08-20"
+            },
+            {
+                "id": "A8ACA7C91E5D3912E040640A040269BB",
+                "instansi": "Kementerian Hukum dan Hak Asasi Manusia",
+                "nama": "AGUS RACHMANTO",
+                "nik": "3175080208860014",
+                "nipBaru": "198608022005011001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1986-08-02"
+            },
+            {
+                "id": "A8ACA7F2B2113912E040640A040269BB",
+                "instansi": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+                "nama": "AGUS RAHARYO",
+                "nik": "3674062708700010",
+                "nipBaru": "197008272006041011",
+                "tempatLahir": "PALEMBANG",
+                "tglLahir": "1970-08-27"
+            },
+            {
+                "id": "A8ACA7B0979C3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS RAHAYU",
+                "nik": "3174101108650004",
+                "nipBaru": "196508111990031008",
+                "tempatLahir": "MAJALENGKA",
+                "tglLahir": "1965-08-11"
+            },
+            {
+                "id": "A8ACA749D8463912E040640A040269BB",
+                "instansi": "Kementerian Koordinator Bidang Politik, Hukum dan Keamanan",
+                "nama": "AGUS RAHENDI",
+                "nik": "3175031708720025",
+                "nipBaru": "197208171992121003",
+                "tempatLahir": "SAMARINDA",
+                "tglLahir": "1972-08-17"
+            },
+            {
+                "id": "A8ACA7EE1FEA3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS RAHMADDI",
+                "nik": "3276052310790003",
+                "nipBaru": "197910232008011013",
+                "tempatLahir": "BOGOR",
+                "tglLahir": "1979-10-23"
+            },
+            {
+                "id": "A8ACA765C97B3912E040640A040269BB",
+                "instansi": "Kementerian Lingkungan Hidup dan Kehutanan",
+                "nama": "AGUS RAHMAT",
+                "nik": "3271021708700033",
+                "nipBaru": "197008172006041024",
+                "tempatLahir": "BOGOR",
+                "tglLahir": "1970-08-17"
+            },
+            {
+                "id": "A8ACA7B49BDB3912E040640A040269BB",
+                "instansi": "Kementerian Lingkungan Hidup dan Kehutanan",
+                "nama": "AGUS RAHMAT",
+                "nik": "3201293101850001",
+                "nipBaru": "198501312008011001",
+                "tempatLahir": "BANDUNG",
+                "tglLahir": "1985-01-31"
+            },
+            {
+                "id": "A8ACA7DD96113912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS RAHMAT MACHRIBI",
+                "nik": "3175042708760001",
+                "nipBaru": "197608272002121002",
+                "tempatLahir": "PONTIANAK",
+                "tglLahir": "1976-08-27"
+            },
+            {
+                "id": "F3C207772D9E7A5CE040640A020221AC",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS RAMDAN",
+                "nik": "3173040608780003",
+                "nipBaru": "197808062014081002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1978-08-06"
+            },
+            {
+                "id": "A8ACA7B40FB33912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS RAMDANI",
+                "nik": "3171021408790008",
+                "nipBaru": "197908141998031001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1979-08-14"
+            },
+            {
+                "id": "A8ACA75D40E73912E040640A040269BB",
+                "instansi": "Kementerian Ketenagakerjaan",
+                "nama": "AGUS RAMDHANY",
+                "nik": "3172042808770016",
+                "nipBaru": "197708282005011001",
+                "tempatLahir": "TANGERANG",
+                "tglLahir": "1977-08-28"
+            },
+            {
+                "id": "A8ACA78D639E3912E040640A040269BB",
+                "instansi": "Badan Pengawasan Keuangan dan Pembangunan",
+                "nama": "AGUS RANUPRIJAMBODO",
+                "nik": "6472031608720006",
+                "nipBaru": "197208161993021001",
+                "tempatLahir": "TEGAL",
+                "tglLahir": "1972-08-16"
+            },
+            {
+                "id": "A8ACA7B0D06C3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS RAPAN SUKARTO",
+                "nik": "3275051608640008",
+                "nipBaru": "196508161991021002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1965-08-16"
+            },
+            {
+                "id": "A8ACA7F3C44A3912E040640A040269BB",
+                "instansi": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+                "nama": "AGUS RATMANTO",
+                "nik": "3671011111650003",
+                "nipBaru": "196511112007011002",
+                "tempatLahir": "CIAMIS",
+                "tglLahir": "1965-11-11"
+            },
+            {
+                "id": "A8ACA77572CF3912E040640A040269BB",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS REHULINA BARUS",
+                "nik": "3275105608780007",
+                "nipBaru": "197808162007012001",
+                "tempatLahir": "DELI SERDANG",
+                "tglLahir": "1978-08-16"
+            },
+            {
+                "id": "A8ACA74A50F23912E040640A040269BB",
+                "instansi": "Badan Nasional Penanggulangan Bencana",
+                "nama": "AGUS REMAN",
+                "nik": "3201372008790004",
+                "nipBaru": "197908202010121001",
+                "tempatLahir": "TANGGAMUS",
+                "tglLahir": "1979-08-20"
+            },
+            {
+                "id": "8ae48296384fe5d3013856806d9e7398",
+                "instansi": "Badan Pengawasan Keuangan dan Pembangunan",
+                "nama": "AGUS REZA PAHLEVI",
+                "nik": "3309142104909002",
+                "nipBaru": "199004212012101001",
+                "tempatLahir": "BOYOLALI",
+                "tglLahir": "1990-04-21"
+            },
+            {
+                "id": "A8ACA7BA7F843912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS RHAMDAN",
+                "nik": "3201120908780003",
+                "nipBaru": "197808092006041002",
+                "tempatLahir": "TASIKMALAYA",
+                "tglLahir": "1978-08-09"
+            },
+            {
+                "id": "A8ACA78D331D3912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS RIAL",
+                "nik": "3174032508690006",
+                "nipBaru": "196908251989121001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1969-08-25"
+            },
+            {
+                "id": "A8ACA7E586BB3912E040640A040269BB",
+                "instansi": "Kementerian Hukum dan Hak Asasi Manusia",
+                "nama": "AGUS RIANTO",
+                "nik": "3671011410780001",
+                "nipBaru": "197810141999031001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1978-10-14"
+            },
+            {
+                "id": "FDCDB3DBE9948A8CE040640A15025F0E",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS RIANTO",
+                "nik": "3201011909710010",
+                "nipBaru": "197109192014101003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1971-09-19"
+            },
+            {
+                "id": "A8ACA74B33763912E040640A040269BB",
+                "instansi": "Badan Pengawasan Keuangan dan Pembangunan",
+                "nama": "AGUS RIANTO",
+                "nik": "3515071106710006",
+                "nipBaru": "197106111991031001",
+                "tempatLahir": "BLITAR",
+                "tglLahir": "1971-06-11"
+            },
+            {
+                "id": "A8ACA7E9602A3912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS RIFAI",
+                "nik": "3329072004810004",
+                "nipBaru": "198104202009121002",
+                "tempatLahir": "BREBES",
+                "tglLahir": "1981-04-20"
+            },
+            {
+                "id": "A8ACA761D7A13912E040640A040269BB",
+                "instansi": "Kementerian Agama",
+                "nama": "AGUS RIFAI",
+                "nik": "3674052902720004",
+                "nipBaru": "197202291998031001",
+                "tempatLahir": "BREBES",
+                "tglLahir": "1972-02-29"
+            },
+            {
+                "id": "A8ACA7B980CF3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS RINI RAHAJENG",
+                "nik": "3174046208710003",
+                "nipBaru": "197108221996032002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1971-08-22"
+            },
+            {
+                "id": "A8ACA7B1A0C83912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS RINTO",
+                "nik": "3671051808670002",
+                "nipBaru": "196708181997031006",
+                "tempatLahir": "SLEMAN",
+                "tglLahir": "1967-08-18"
+            },
+            {
+                "id": "A8ACA7F079993912E040640A040269BB",
+                "instansi": "Kementerian Desa, Pembangunan Daerah Tertinggal dan Transmigrasi",
+                "nama": "AGUS RIO PERMANA",
+                "nik": "3201130608850007",
+                "nipBaru": "198508062009121002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1985-08-06"
+            },
+            {
+                "id": "A8ACA7B3DB253912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS RISMAN",
+                "nik": "3275080208720016",
+                "nipBaru": "197208021997031004",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1972-08-02"
+            },
+            {
+                "id": "A8ACA7600EC13912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS RISMANTO",
+                "nik": "3318103004860002",
+                "nipBaru": "198604302007101002",
+                "tempatLahir": "PATI",
+                "tglLahir": "1986-04-30"
+            },
+            {
+                "id": "A8ACA7AF742D3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS RISWANTO",
+                "nik": "3174012410810008",
+                "nipBaru": "198110242007011007",
+                "tempatLahir": "KARANGANYAR",
+                "tglLahir": "1981-10-24"
+            },
+            {
+                "id": "A8ACA7904BA33912E040640A040269BB",
+                "instansi": "Kementerian Perencanaan Pembangunan Nasional/Bappenas",
+                "nama": "AGUS RIYADI",
+                "nik": "3574030108810005",
+                "nipBaru": "198108012009011013",
+                "tempatLahir": "UJUNG PANDANG",
+                "tglLahir": "1981-08-01"
+            },
+            {
+                "id": "A8ACA7F4B7803912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS RIYANTO",
+                "nik": "3175021208840004",
+                "nipBaru": "198408122010011021",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1984-08-12"
+            },
+            {
+                "id": "46E7865380F6FC06E050640A2A02A256",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS RIYANTO",
+                "nik": "3314032707950001",
+                "nipBaru": "199507272016121004",
+                "tempatLahir": "SRAGEN",
+                "tglLahir": "1995-07-27"
+            },
+            {
+                "id": "A8ACA74F29163912E040640A040269BB",
+                "instansi": "Badan Nasional Penanggulangan Bencana",
+                "nama": "AGUS RIYANTO",
+                "nik": "3374102707790003",
+                "nipBaru": "197907272000121005",
+                "tempatLahir": "KARANGANYAR",
+                "tglLahir": "1979-07-27"
+            },
+            {
+                "id": "A8ACA74648273912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS RIYANTO",
+                "nik": "3302270408810001",
+                "nipBaru": "198108042002121001",
+                "tempatLahir": "BANYUMAS",
+                "tglLahir": "1981-08-04"
+            },
+            {
+                "id": "A8ACA7752AF03912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS RIYANTO",
+                "nik": "3175082008830002",
+                "nipBaru": "198308202003121003",
+                "tempatLahir": "RANGKASBITUNG",
+                "tglLahir": "1983-08-20"
+            },
+            {
+                "id": "A8ACA748FDE43912E040640A040269BB",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS RIYANTO",
+                "nik": "3175100108750011",
+                "nipBaru": "197508012005011003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1975-08-01"
+            },
+            {
+                "id": "A8ACA7E4EF463912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS RIYANTO",
+                "nik": "3175062408790017",
+                "nipBaru": "197908242009101002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1979-08-24"
+            },
+            {
+                "id": "A8ACA770A2893912E040640A040269BB",
+                "instansi": "Kepolisian Negara",
+                "nama": "AGUS RIYANTO",
+                "nik": "9171012208830005",
+                "nipBaru": "198308222011011002",
+                "tempatLahir": "BOGOR",
+                "tglLahir": "1983-08-22"
+            },
+            {
+                "id": "A8ACA766595B3912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS RIYANTO",
+                "nik": "3313102108830001",
+                "nipBaru": "198308212002121002",
+                "tempatLahir": "KARANGANYAR",
+                "tglLahir": "1983-08-21"
+            },
+            {
+                "id": "A8ACA74456AA3912E040640A040269BB",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS RIYANTO",
+                "nik": "3172031405730004",
+                "nipBaru": "197305141998031005",
+                "tempatLahir": "BREBES",
+                "tglLahir": "1973-05-14"
+            },
+            {
+                "id": "A8ACA7758D8D3912E040640A040269BB",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS RIYANTO DEWANTORO",
+                "nik": "3201131108680001",
+                "nipBaru": "196808111989031005",
+                "tempatLahir": "PURWOREJO",
+                "tglLahir": "1968-08-11"
+            },
+            {
+                "id": "A8ACA7904B923912E040640A040269BB",
+                "instansi": "Kementerian Perencanaan Pembangunan Nasional/Bappenas",
+                "nama": "AGUS RIYANTO KURNIAWAN",
+                "nik": "3404112808820005",
+                "nipBaru": "198208282009011010",
+                "tempatLahir": "SLEMAN",
+                "tglLahir": "1982-08-28"
+            },
+            {
+                "id": "A8ACA7EE05173912E040640A040269BB",
+                "instansi": "Badan Pemeriksa Keuangan",
+                "nama": "AGUS RIZAL",
+                "nik": "3174072608750003",
+                "nipBaru": "197508262002121001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1975-08-26"
+            },
+            {
+                "id": "A8ACA78F8FC83912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS RIZAL ARDY HARIANDY HAMID",
+                "nik": "3171061106770008",
+                "nipBaru": "197706112009121002",
+                "tempatLahir": "DENPASAR",
+                "tglLahir": "1977-06-11"
+            },
+            {
+                "id": "A8ACA7ED6A283912E040640A040269BB",
+                "instansi": "Badan Pelindungan Pekerja Migran Indonesia",
+                "nama": "AGUS ROHADI",
+                "nik": "3275090402650006",
+                "nipBaru": "196502041987031003",
+                "tempatLahir": "SRAGEN",
+                "tglLahir": "1965-02-04"
+            },
+            {
+                "id": "A8ACA7B10ABB3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS ROHYADI",
+                "nik": "3201102508660004",
+                "nipBaru": "196608251992031005",
+                "tempatLahir": "GARUT",
+                "tglLahir": "1966-08-25"
+            },
+            {
+                "id": "8ae4838d5e6cbd74015e6f93cb961762",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS ROMADI",
+                "nik": "3201040808950009",
+                "nipBaru": "199508082018011001",
+                "tempatLahir": "BOGOR",
+                "tglLahir": "1995-08-08"
+            },
+            {
+                "id": "A8ACA7B12B973912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS ROMANSYAH",
+                "nik": "3671052102790001",
+                "nipBaru": "197902212007011004",
+                "tempatLahir": "BANDUNG",
+                "tglLahir": "1979-02-21"
+            },
+            {
+                "id": "A8ACA7EE2F983912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS RONNI",
+                "nik": "3174012008830006",
+                "nipBaru": "198308202008011009",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1983-08-20"
+            },
+            {
+                "id": "A8ACA74ABE6A3912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS ROSIDI",
+                "nik": "3374061708761002",
+                "nipBaru": "197608171999031001",
+                "tempatLahir": "DEMAK",
+                "tglLahir": "1976-08-17"
+            },
+            {
+                "id": "A8ACA7F106523912E040640A040269BB",
+                "instansi": "Kementerian Pertanian",
+                "nama": "AGUS ROSYID WASINGUN",
+                "nik": "3275091708760033",
+                "nipBaru": "197608172009121004",
+                "tempatLahir": "JAWA TENGAH",
+                "tglLahir": "1976-08-17"
+            },
+            {
+                "id": "A8ACA78DF06C3912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS RUBIANTO RAHMAN",
+                "nik": "3271041408600005",
+                "nipBaru": "196008141988031004",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1960-08-14"
+            },
+            {
+                "id": "A8ACA7F06EDD3912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS RUBIYANTO",
+                "nik": "3578091906650007",
+                "nipBaru": "196506191989031001",
+                "tempatLahir": "SURABAYA",
+                "tglLahir": "1965-06-19"
+            },
+            {
+                "id": "A8ACA7EA31CC3912E040640A040269BB",
+                "instansi": "Badan Kepegawaian Negara",
+                "nama": "AGUS RUDI SISWANTO",
+                "nik": "3175093008850009",
+                "nipBaru": "198508302009121001",
+                "tempatLahir": "KARANGANYAR",
+                "tglLahir": "1985-08-30"
+            },
+            {
+                "id": "A8ACA7B3D0223912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS RUHIYAT",
+                "nik": "3175072608760004",
+                "nipBaru": "197608261997031003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1976-08-26"
+            },
+            {
+                "id": "A8ACA7B2D8893912E040640A040269BB",
+                "instansi": "Badan Pusat Statistik ",
+                "nama": "AGUS RUSLANI",
+                "nik": "7310041409870002",
+                "nipBaru": "198709142010121005",
+                "tempatLahir": "BREBES",
+                "tglLahir": "1987-09-14"
+            },
+            {
+                "id": "EF1117E918AC2AC4E040640A020272EC",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS RUSLIANA",
+                "nik": "3603052708900001",
+                "nipBaru": "199008272014031002",
+                "tempatLahir": "SUBANG",
+                "tglLahir": "1990-08-27"
+            },
+            {
+                "id": "A8ACA7EC09983912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS RUSMANSYAH",
+                "nik": "3275111308860002",
+                "nipBaru": "198608132010011005",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1986-08-13"
+            },
+            {
+                "id": "A8ACA7C8847C3912E040640A040269BB",
+                "instansi": "Kementerian Perhubungan",
+                "nama": "AGUS RUSNAWAN",
+                "nik": "3215210108780003",
+                "nipBaru": "197808011997031001",
+                "tempatLahir": "SUMEDANG",
+                "tglLahir": "1978-08-01"
+            },
+            {
+                "id": "A8ACA7B3D4763912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS RUSTANTO",
+                "nik": "3175020908680009",
+                "nipBaru": "196808091990061001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1968-08-09"
+            },
+            {
+                "id": "A8ACA7482FEA3912E040640A040269BB",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS RUSTONO",
+                "nik": "3173010508790031",
+                "nipBaru": "197908052009121001",
+                "tempatLahir": "BREBES",
+                "tglLahir": "1979-08-05"
+            },
+            {
+                "id": "A8ACA7AE79CC3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS S",
+                "nik": "3275090908790005",
+                "nipBaru": "197908092007011013",
+                "tempatLahir": "BEKASI",
+                "tglLahir": "1979-08-09"
+            },
+            {
+                "id": "A8ACA74DB1EB3912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SABRANI",
+                "nik": "3174050707770010",
+                "nipBaru": "197707072000011001",
+                "tempatLahir": "MATARAM",
+                "tglLahir": "1977-07-07"
+            },
+            {
+                "id": "A8ACA7F590B93912E040640A040269BB",
+                "instansi": "Kejaksaan Agung",
+                "nama": "AGUS SABUNGAN",
+                "nik": "3175073108810007",
+                "nipBaru": "198108312005011003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1981-08-31"
+            },
+            {
+                "id": "A8ACA78A06593912E040640A040269BB",
+                "instansi": "Mahkamah Agung RI",
+                "nama": "AGUS SADIKIN",
+                "nik": "3203011908720001",
+                "nipBaru": "197208191993031005",
+                "tempatLahir": "CIANJUR",
+                "tglLahir": "1972-08-19"
+            },
+            {
+                "id": "A8ACA75A92DA3912E040640A040269BB",
+                "instansi": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+                "nama": "AGUS SAENI",
+                "nik": "7202020112720005",
+                "nipBaru": "197212012007011004",
+                "tempatLahir": "POSO",
+                "tglLahir": "1972-12-01"
+            },
+            {
+                "id": "A8ACA7B103C73912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SAEPUDIN",
+                "nik": "3171081809670001",
+                "nipBaru": "196709181997031003",
+                "tempatLahir": "SUMEDANG",
+                "tglLahir": "1967-09-18"
+            },
+            {
+                "id": "A8ACA7F309783912E040640A040269BB",
+                "instansi": "Kementerian Desa, Pembangunan Daerah Tertinggal dan Transmigrasi",
+                "nama": "AGUS SAEPULLOH",
+                "nik": "3275011908840013",
+                "nipBaru": "198408192009121001",
+                "tempatLahir": "BANDUNG",
+                "tglLahir": "1984-08-19"
+            },
+            {
+                "id": "01845569535C412FE050640A1502722F",
+                "instansi": "Kementerian Agama",
+                "nama": "AGUS SAEPULOH",
+                "nik": "3201110608720001",
+                "nipBaru": "197208062014111003",
+                "tempatLahir": "BOGOR",
+                "tglLahir": "1972-08-06"
+            },
+            {
+                "id": "8ae4838c5da20f9b015da2940db7219a",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SAHPUTRA",
+                "nik": "1371112708930016",
+                "nipBaru": "199308272018011004",
+                "tempatLahir": "PASAMAN BARAT",
+                "tglLahir": "1993-08-27"
+            },
+            {
+                "id": "A8ACA7B1B68B3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SAHRONI",
+                "nik": "3671121904690001",
+                "nipBaru": "196904192007011024",
+                "tempatLahir": "TANGERANG",
+                "tglLahir": "1969-04-19"
+            },
+            {
+                "id": "A8ACA7ECA13C3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SAIFUDIN",
+                "nik": "3174090908830001",
+                "nipBaru": "198308092010011005",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1983-08-09"
+            },
+            {
+                "id": "A8ACA75172383912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SALAM",
+                "nik": "3276060808670004",
+                "nipBaru": "196708082010081001",
+                "tempatLahir": "BOGOR",
+                "tglLahir": "1967-08-08"
+            },
+            {
+                "id": "A8ACA74F87473912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SALIM",
+                "nik": "3276020811650005",
+                "nipBaru": "196511081998021005",
+                "tempatLahir": "BREBES",
+                "tglLahir": "1965-11-08"
+            },
+            {
+                "id": "A8ACA74502913912E040640A040269BB",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS SALIM",
+                "nik": "3175071603751001",
+                "nipBaru": "197503162002121009",
+                "tempatLahir": "BREBES",
+                "tglLahir": "1975-03-16"
+            },
+            {
+                "id": "A8ACA7EF9AA53912E040640A040269BB",
+                "instansi": "Kementerian Pertanian",
+                "nama": "AGUS SALIM",
+                "nik": "3276090208780001",
+                "nipBaru": "197808022009011013",
+                "tempatLahir": "CIAMIS",
+                "tglLahir": "1978-08-02"
+            },
+            {
+                "id": "A8ACA780CF333912E040640A040269BB",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS SALIM",
+                "nik": "3276042408650001",
+                "nipBaru": "196508241990031004",
+                "tempatLahir": "JAKARTA SELATAN",
+                "tglLahir": "1965-08-24"
+            },
+            {
+                "id": "A8ACA7570D6F3912E040640A040269BB",
+                "instansi": "Kementerian Hukum dan Hak Asasi Manusia",
+                "nama": "AGUS SALIM",
+                "nik": "3175032008870007",
+                "nipBaru": "198708202010121001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1987-08-20"
+            },
+            {
+                "id": "A8ACA7F6B55D3912E040640A040269BB",
+                "instansi": "Badan Pusat Statistik ",
+                "nama": "AGUS SALIM",
+                "nik": "3201161810780004",
+                "nipBaru": "197810182007011003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1978-10-18"
+            },
+            {
+                "id": "FB25DF4B813CD09CE040640A15021FF5",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS SALIM",
+                "nik": "3174091402770010",
+                "nipBaru": "197702142014091003",
+                "tempatLahir": "JAMBI",
+                "tglLahir": "1977-02-14"
+            },
+            {
+                "id": "A8ACA7EC34BB3912E040640A040269BB",
+                "instansi": "Kementerian Pertanian",
+                "nama": "AGUS SALIM",
+                "nik": "3603282808650008",
+                "nipBaru": "196508281998021001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1965-08-28"
+            },
+            {
+                "id": "A8ACA7CA3B8B3912E040640A040269BB",
+                "instansi": "Kementerian Energi dan Sumber Daya Mineral",
+                "nama": "AGUS SALIM",
+                "nik": "3674030308590006",
+                "nipBaru": "195908031987031002",
+                "tempatLahir": "SIPIROK",
+                "tglLahir": "1959-08-03"
+            },
+            {
+                "id": "A8ACA7C964B53912E040640A040269BB",
+                "instansi": "Kementerian Hukum dan Hak Asasi Manusia",
+                "nama": "AGUS SALIM",
+                "nik": "3174080508740001",
+                "nipBaru": "197408051998031002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1974-08-05"
+            },
+            {
+                "id": "A8ACA7AD4B4B3912E040640A040269BB",
+                "instansi": "Kementerian Agama",
+                "nama": "AGUS SALIM",
+                "nik": "3173041106780016",
+                "nipBaru": "197806112011011002",
+                "tempatLahir": "PATI",
+                "tglLahir": "1978-06-11"
+            },
+            {
+                "id": "A8ACA7AD3B1E3912E040640A040269BB",
+                "instansi": "Kejaksaan Agung",
+                "nama": "AGUS SALIM",
+                "nik": "3674012708680001",
+                "nipBaru": "196808271991031004",
+                "tempatLahir": "PALOPO",
+                "tglLahir": "1968-08-27"
+            },
+            {
+                "id": "A8ACA75CB9B83912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS SALIM",
+                "nik": "6303021708690003",
+                "nipBaru": "196908172002121002",
+                "tempatLahir": "MUARA TEWEH",
+                "tglLahir": "1969-08-17"
+            },
+            {
+                "id": "A8ACA75B132A3912E040640A040269BB",
+                "instansi": "Badan Pembinaan Ideologi Pancasila",
+                "nama": "AGUS SALIM",
+                "nik": "3174091508740002",
+                "nipBaru": "197408152005021001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1974-08-15"
+            },
+            {
+                "id": "A8ACA749CD123912E040640A040269BB",
+                "instansi": "Badan Siber dan Sandi Negara",
+                "nama": "AGUS SALIM",
+                "nik": "3276061608740008",
+                "nipBaru": "197408161994121001",
+                "tempatLahir": "CIANJUR",
+                "tglLahir": "1974-08-16"
+            },
+            {
+                "id": "A8ACA749EFF73912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SALIM",
+                "nik": "7372022709650003",
+                "nipBaru": "196509271994031006",
+                "tempatLahir": "UJUNG PANDANG",
+                "tglLahir": "1965-09-27"
+            },
+            {
+                "id": "8ae4838e6e81e26a016e840c40fe5017",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SALIM",
+                "nik": "3175040403860008",
+                "nipBaru": "198603042020121005",
+                "tempatLahir": "CIREBON",
+                "tglLahir": "1986-03-04"
+            },
+            {
+                "id": "38868A11C8435CE9E050640A2902B8BF",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SALIM",
+                "nik": "3302190705680002",
+                "nipBaru": "196805072016111001",
+                "tempatLahir": "PURBALINGGA",
+                "tglLahir": "1968-05-07"
+            },
+            {
+                "id": "A8ACA7B3BBE73912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SALIM",
+                "nik": "3173062508690009",
+                "nipBaru": "196908251989031001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1969-08-25"
+            },
+            {
+                "id": "A8ACA7F0D2BA3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SALIM",
+                "nik": "3101011808820001",
+                "nipBaru": "198208182010011020",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1982-08-18"
+            },
+            {
+                "id": "A8ACA7B0B2273912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SALIM",
+                "nik": "3671131708660002",
+                "nipBaru": "196608171993031014",
+                "tempatLahir": "SUKOHARJO",
+                "tglLahir": "1966-08-17"
+            },
+            {
+                "id": "A8ACA7AE87833912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SALIM",
+                "nik": "3174070809700003",
+                "nipBaru": "197009082007011024",
+                "tempatLahir": "OGAN KOMERING ULU",
+                "tglLahir": "1970-09-08"
+            },
+            {
+                "id": "A8ACA7B9729D3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SALIM",
+                "nik": "3276050508850010",
+                "nipBaru": "198508052009041004",
+                "tempatLahir": "BOGOR",
+                "tglLahir": "1985-08-05"
+            },
+            {
+                "id": "A8ACA7B96CBD3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SALIM",
+                "nik": "3216022008710008",
+                "nipBaru": "197108202009041002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1971-08-20"
+            },
+            {
+                "id": "A8ACA78A78B03912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SALIM AFROZI",
+                "nik": "3201111709730001",
+                "nipBaru": "197309171998031002",
+                "tempatLahir": "KUDUS",
+                "tglLahir": "1973-09-17"
+            },
+            {
+                "id": "A8ACA78B53713912E040640A040269BB",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS SALIM AMIRUDDIN",
+                "nik": "3271060708820027",
+                "nipBaru": "198208072010121001",
+                "tempatLahir": "CIREBON",
+                "tglLahir": "1982-08-07"
+            },
+            {
+                "id": "A8ACA7EE2BC43912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SALIM HARAHAP",
+                "nik": "3674030908810002",
+                "nipBaru": "198108092008011015",
+                "tempatLahir": "MEDAN",
+                "tglLahir": "1981-08-09"
+            },
+            {
+                "id": "A8ACA7D33DD53912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS SAMBODO",
+                "nik": "1571012608710062",
+                "nipBaru": "197108261996031002",
+                "tempatLahir": "KEPULAUAN RIAU",
+                "tglLahir": "1971-08-26"
+            },
+            {
+                "id": "A8ACA7EDE0FC3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SAMSUL HIDAYAT",
+                "nik": "3216052404780003",
+                "nipBaru": "197804242008011028",
+                "tempatLahir": "CIAMIS",
+                "tglLahir": "1978-04-24"
+            },
+            {
+                "id": "A8ACA7AF3D023912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SANI",
+                "nik": "3173011708660005",
+                "nipBaru": "196608171985031001",
+                "tempatLahir": "TANGERANG",
+                "tglLahir": "1966-08-17"
+            },
+            {
+                "id": "A8ACA7BA139A3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SANJAYA",
+                "nik": "3171012901850002",
+                "nipBaru": "198501292009041003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1985-01-29"
+            },
+            {
+                "id": "A8ACA7ED67E93912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SANTARI",
+                "nik": "3173062802790001",
+                "nipBaru": "197902282008011027",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1979-02-28"
+            },
+            {
+                "id": "A8ACA74541A53912E040640A040269BB",
+                "instansi": "Mahkamah Agung RI",
+                "nama": "AGUS SANTOSA",
+                "nik": "3175071206840017",
+                "nipBaru": "198406122006041003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1984-06-12"
+            },
+            {
+                "id": "A8ACA7B11CC13912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SANTOSO",
+                "nik": "3173012303721001",
+                "nipBaru": "197203231996061001",
+                "tempatLahir": "BREBES",
+                "tglLahir": "1972-03-23"
+            },
+            {
+                "id": "7DFE7E9B46F7CEB5E050640A3C0316F9",
+                "instansi": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+                "nama": "AGUS SANTOSO",
+                "nik": "3208061203870001",
+                "nipBaru": "198703122019021001",
+                "tempatLahir": "KUNINGAN",
+                "tglLahir": "1987-03-12"
+            },
+            {
+                "id": "A8ACA7F33C693912E040640A040269BB",
+                "instansi": "Kementerian Dalam Negeri",
+                "nama": "AGUS SANTOSO",
+                "nik": "3275031608760020",
+                "nipBaru": "197608162008121001",
+                "tempatLahir": "YOGYAKARTA",
+                "tglLahir": "1976-08-16"
+            },
+            {
+                "id": "A8ACA7B655FD3912E040640A040269BB",
+                "instansi": "Kementerian Perindustrian",
+                "nama": "AGUS SANTOSO",
+                "nik": "3201131908630008",
+                "nipBaru": "196308191986031002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1963-08-19"
+            },
+            {
+                "id": "A8ACA74473C63912E040640A040269BB",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS SANTOSO",
+                "nik": "3201021109660009",
+                "nipBaru": "196609111987121001",
+                "tempatLahir": "KEBUMEN",
+                "tglLahir": "1966-09-11"
+            },
+            {
+                "id": "A8ACA7B9D5083912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SANTOSO",
+                "nik": "3275011506800080",
+                "nipBaru": "198006152009041006",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1980-06-15"
+            },
+            {
+                "id": "A8ACA7EDB33B3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SANTOSO",
+                "nik": "3171030708730006",
+                "nipBaru": "197308072008011016",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1973-08-07"
+            },
+            {
+                "id": "A8ACA7B980DF3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SANTOSO",
+                "nik": "3173022908790005",
+                "nipBaru": "197908292009041001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1979-08-29"
+            },
+            {
+                "id": "A8ACA7B3AA193912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SANTOSO",
+                "nik": "3171030308700001",
+                "nipBaru": "197008031994031006",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1970-08-03"
+            },
+            {
+                "id": "A8ACA7B6BC4E3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SANTOSO",
+                "nik": "3175103009820007",
+                "nipBaru": "198209302009041001",
+                "tempatLahir": "BANYUMAS",
+                "tglLahir": "1982-09-30"
+            },
+            {
+                "id": "A8ACA79A9DFD3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SANYOTO",
+                "nik": "3275020608890006",
+                "nipBaru": "198908062011011001",
+                "tempatLahir": "KEBUMEN",
+                "tglLahir": "1989-08-06"
+            },
+            {
+                "id": "A8ACA7B3CEC43912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SANYOTO",
+                "nik": "3276082807700001",
+                "nipBaru": "197007281998031005",
+                "tempatLahir": "TEMANGGUNG",
+                "tglLahir": "1970-07-28"
+            },
+            {
+                "id": "A8ACA7B0D3453912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SAPTADI",
+                "nik": "3201332008640002",
+                "nipBaru": "196408201990031005",
+                "tempatLahir": "BENGKULU",
+                "tglLahir": "1964-08-20"
+            },
+            {
+                "id": "A8ACA7EC4B823912E040640A040269BB",
+                "instansi": "Badan Pusat Statistik ",
+                "nama": "AGUS SAPTAJI",
+                "nik": "3216052308670002",
+                "nipBaru": "196708231995031004",
+                "tempatLahir": "JAKARTA PUSAT",
+                "tglLahir": "1967-08-23"
+            },
+            {
+                "id": "A8ACA74B06D43912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SAPTOMO",
+                "nik": "3674021108700005",
+                "nipBaru": "197008111991031001",
+                "tempatLahir": "YOGYAKARTA",
+                "tglLahir": "1970-08-11"
+            },
+            {
+                "id": "A8ACA7B4CC373912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS SAPTONO",
+                "nik": "3173070108820001",
+                "nipBaru": "198208012008121002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1982-08-01"
+            },
+            {
+                "id": "A8ACA7C9B14A3912E040640A040269BB",
+                "instansi": "Kementerian Energi dan Sumber Daya Mineral",
+                "nama": "AGUS SAPTONO",
+                "nik": "3674033008650003",
+                "nipBaru": "196508301986031003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1965-08-30"
+            },
+            {
+                "id": "A8ACA7ADA7A13912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SAPUTRA",
+                "nik": "3175102708730006",
+                "nipBaru": "197308271993031002",
+                "tempatLahir": "PURWAKARTA",
+                "tglLahir": "1973-08-27"
+            },
+            {
+                "id": "A8ACA7F3A45D3912E040640A040269BB",
+                "instansi": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+                "nama": "AGUS SAPUTRA",
+                "nik": "1671070908860007",
+                "nipBaru": "198608092009121001",
+                "tempatLahir": "PALEMBANG",
+                "tglLahir": "1986-08-09"
+            },
+            {
+                "id": "A8ACA7EDC8393912E040640A040269BB",
+                "instansi": "Badan Pemeriksa Keuangan",
+                "nama": "AGUS SAPUTRO",
+                "nik": "3174050407730002",
+                "nipBaru": "197307042000031003",
+                "tempatLahir": "JEPARA",
+                "tglLahir": "1973-07-04"
+            },
+            {
+                "id": "A8ACA7B479AF3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SARIAGUNG",
+                "nik": "3276051208790002",
+                "nipBaru": "197908121999031004",
+                "tempatLahir": "JAKARTA PUSAT",
+                "tglLahir": "1979-08-12"
+            },
+            {
+                "id": "A8ACA75EC5993912E040640A040269BB",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS SARIFUDIN",
+                "nik": "3174092412680004",
+                "nipBaru": "196812242007011020",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1968-12-24"
+            },
+            {
+                "id": "A8ACA78DF9C93912E040640A040269BB",
+                "instansi": "Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional",
+                "nama": "AGUS SARJANA",
+                "nik": "3273263110690002",
+                "nipBaru": "196910311989091001",
+                "tempatLahir": "TASIKMALAYA",
+                "tglLahir": "1969-10-31"
+            },
+            {
+                "id": "EF861E8866661B87E040640A020276AA",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SARTOMO",
+                "nik": "3311122808840005",
+                "nipBaru": "198408282014021002",
+                "tempatLahir": "KEBUMEN",
+                "tglLahir": "1984-08-28"
+            },
+            {
+                "id": "A8ACA78D17993912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SARTONO DWI SANTOSA",
+                "nik": "3674072508660003",
+                "nipBaru": "196608251986031001",
+                "tempatLahir": "YOGYAKARTA",
+                "tglLahir": "1966-08-25"
+            },
+            {
+                "id": "A8ACA7CEC8D93912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SARWODI",
+                "nik": "3604011303670102",
+                "nipBaru": "196703131987031001",
+                "tempatLahir": "SURAKARTA",
+                "tglLahir": "1967-03-13"
+            },
+            {
+                "id": "A8ACA7AE94833912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SASMITA",
+                "nik": "3175071210660010",
+                "nipBaru": "196510122007011030",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1965-10-12"
+            },
+            {
+                "id": "A8ACA7B3DE0F3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SATIAWAN",
+                "nik": "3173081808740001",
+                "nipBaru": "197408181998031007",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1974-08-18"
+            },
+            {
+                "id": "A8ACA761DCD83912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SATRIJA UTARA",
+                "nik": "3174082308650005",
+                "nipBaru": "196508231986031010",
+                "tempatLahir": "PURBALINGGA",
+                "tglLahir": "1965-08-23"
+            },
+            {
+                "id": "A8ACA79DD67E3912E040640A040269BB",
+                "instansi": "Setjen Komisi Pemilihan Umum",
+                "nama": "AGUS SATRY",
+                "nik": "7373092208710001",
+                "nipBaru": "197108221998021004",
+                "tempatLahir": "KENDAL",
+                "tglLahir": "1971-08-22"
+            },
+            {
+                "id": "A8ACA7B3DE033912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SAUD SILALAHI",
+                "nik": "3173012108680006",
+                "nipBaru": "196808211998031005",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1968-08-21"
+            },
+            {
+                "id": "A8ACA74846943912E040640A040269BB",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS SAWALUDDIN ANGKAT",
+                "nik": "3275022708800014",
+                "nipBaru": "198008272008011014",
+                "tempatLahir": "MEDAN",
+                "tglLahir": "1980-08-27"
+            },
+            {
+                "id": "0E4DF9E55944D8ACE050640A15026D5F",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SAWUKIR",
+                "nik": "3204172407810002",
+                "nipBaru": "198107242015031001",
+                "tempatLahir": "BOYOLALI",
+                "tglLahir": "1981-07-24"
+            },
+            {
+                "id": "A8ACA7A2E70D3912E040640A040269BB",
+                "instansi": "Kementerian Pertanian",
+                "nama": "AGUS SAYOGIE",
+                "nik": "3174043108700009",
+                "nipBaru": "197008312008121001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1970-08-31"
+            },
+            {
+                "id": "A8ACA7ED5A6C3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SA`BAN",
+                "nik": "3173051608750021",
+                "nipBaru": "197508162008011019",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1975-08-16"
+            },
+            {
+                "id": "7DFE7E9B1B83CEB5E050640A3C0316F9",
+                "instansi": "Kementerian Perhubungan",
+                "nama": "AGUS SEPTIAN",
+                "nik": "3172040308910016",
+                "nipBaru": "199108032019021002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1991-08-03"
+            },
+            {
+                "id": "EF0E6857D0A4106CE040640A020204EE",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIA BUDI",
+                "nik": "3175062308930005",
+                "nipBaru": "199308232014031001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1993-08-23"
+            },
+            {
+                "id": "A8ACA748360E3912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SETIADI",
+                "nik": "3603222204680001",
+                "nipBaru": "196804222006041004",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1968-04-22"
+            },
+            {
+                "id": "A8ACA7E59DF33912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS SETIADI",
+                "nik": "3671133108710003",
+                "nipBaru": "197108312008101001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1971-08-31"
+            },
+            {
+                "id": "A8ACA74AFF4F3912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SETIADI",
+                "nik": "3275091708730026",
+                "nipBaru": "197308171999031001",
+                "tempatLahir": "CILACAP",
+                "tglLahir": "1973-08-17"
+            },
+            {
+                "id": "A8ACA745FBC63912E040640A040269BB",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS SETIADI H",
+                "nik": "3175053108760004",
+                "nipBaru": "197608312010121002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1976-08-31"
+            },
+            {
+                "id": "A8ACA7767C7A3912E040640A040269BB",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS SETIADI NUGROHO",
+                "nik": "3275091708740040",
+                "nipBaru": "197408171997031001",
+                "tempatLahir": "KARANGLEWAS",
+                "tglLahir": "1974-08-17"
+            },
+            {
+                "id": "F3C20040BB3BA487E040640A02021D84",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIANTO",
+                "nik": "3175061308820018",
+                "nipBaru": "198208132014081003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1982-08-13"
+            },
+            {
+                "id": "A8ACA746A1993912E040640A040269BB",
+                "instansi": "Badan Narkotika Nasional",
+                "nama": "AGUS SETIATNO",
+                "nik": "3276012208760010",
+                "nipBaru": "197608222011011006",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1976-08-22"
+            },
+            {
+                "id": "A8ACA770AB3B3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3175030509820013",
+                "nipBaru": "198209052010011029",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1982-09-05"
+            },
+            {
+                "id": "7E2C0FACA4B1B6DDE050640A3C0313D4",
+                "instansi": "Badan Standardisasi Nasional ",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3603171801910018",
+                "nipBaru": "199101182019031007",
+                "tempatLahir": "TANGERANG",
+                "tglLahir": "1991-01-18"
+            },
+            {
+                "id": "A8ACA7ED1D553912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS SETIAWAN",
+                "nik": "6271012008750004",
+                "nipBaru": "197508202010011005",
+                "tempatLahir": "PALANGKARAYA",
+                "tglLahir": "1975-08-20"
+            },
+            {
+                "id": "A8ACA7BA9D0F3912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3275120508750008",
+                "nipBaru": "197508052008121001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1975-08-05"
+            },
+            {
+                "id": "D15F2E67C7A2596EE040640A02021E44",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3175031908720014",
+                "nipBaru": "197208192012121003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1972-08-19"
+            },
+            {
+                "id": "FDCDB3E986EDD318E040640A15026081",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3172021108740008",
+                "nipBaru": "197408112014101002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1974-08-11"
+            },
+            {
+                "id": "A8ACA75AFAE73912E040640A040269BB",
+                "instansi": "Kepolisian Negara",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3275042108790020",
+                "nipBaru": "198008212003121003",
+                "tempatLahir": "DEPOK",
+                "tglLahir": "1980-08-21"
+            },
+            {
+                "id": "A8ACA7B421E53912E040640A040269BB",
+                "instansi": "Kementerian Lingkungan Hidup dan Kehutanan",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3174040708700003",
+                "nipBaru": "197008072008011001",
+                "tempatLahir": "SEMARANG",
+                "tglLahir": "1970-08-07"
+            },
+            {
+                "id": "A8ACA7F1690B3912E040640A040269BB",
+                "instansi": "Badan Pusat Statistik ",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3174011908690005",
+                "nipBaru": "196908191992111001",
+                "tempatLahir": "JAKARTA SELATAN",
+                "tglLahir": "1969-08-19"
+            },
+            {
+                "id": "A8ACA7E8EC7D3912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3175071708680021",
+                "nipBaru": "196808161993121001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1968-08-16"
+            },
+            {
+                "id": "A8ACA74755AB3912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3174060404810009",
+                "nipBaru": "198104042003121001",
+                "tempatLahir": "SEMARANG",
+                "tglLahir": "1981-04-04"
+            },
+            {
+                "id": "A8ACA7E578C23912E040640A040269BB",
+                "instansi": "Kementerian Komunikasi dan Informatika",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3172041908820012",
+                "nipBaru": "198208192005021001",
+                "tempatLahir": "SUKOHARJO",
+                "tglLahir": "1982-08-19"
+            },
+            {
+                "id": "A8ACA7A3303A3912E040640A040269BB",
+                "instansi": "Kementerian Pertanian",
+                "nama": "AGUS SETIAWAN",
+                "nik": "\u00a03276022708820009",
+                "nipBaru": "198208272007101001",
+                "tempatLahir": "BOGOR",
+                "tglLahir": "1982-08-27"
+            },
+            {
+                "id": "0EB356D2B457BB11E050640A1502608B",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3174092908870003",
+                "nipBaru": "198708292015031001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1987-08-29"
+            },
+            {
+                "id": "A5EB0529C675F6A0E040640A040252AD",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SETIAWAN",
+                "nik": "1672021408920003",
+                "nipBaru": "199208142012101001",
+                "tempatLahir": "PAGAR ALAM",
+                "tglLahir": "1992-08-14"
+            },
+            {
+                "id": "A8ACA7E257B23912E040640A040269BB",
+                "instansi": "Kementerian Perhubungan",
+                "nama": "AGUS SETIAWAN",
+                "nik": "5171010208750010",
+                "nipBaru": "197508021997031003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1975-08-02"
+            },
+            {
+                "id": "A8ACA7D517473912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3302201108830001",
+                "nipBaru": "198308112006021001",
+                "tempatLahir": "MAGELANG",
+                "tglLahir": "1983-08-11"
+            },
+            {
+                "id": "A8ACA7BF83DD3912E040640A040269BB",
+                "instansi": "Badan Pemeriksa Keuangan",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3174061208870009",
+                "nipBaru": "198708122011051001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1987-08-12"
+            },
+            {
+                "id": "A8ACA77888D73912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3318102508850004",
+                "nipBaru": "198508252007011003",
+                "tempatLahir": "PURWOKERTO",
+                "tglLahir": "1985-08-25"
+            },
+            {
+                "id": "A8ACA7615A193912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3174041108750006",
+                "nipBaru": "197508112002121001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1975-08-11"
+            },
+            {
+                "id": "000000006e68ba19016e6b78249075ae",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3174060708910003",
+                "nipBaru": "199108072020121012",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1991-08-07"
+            },
+            {
+                "id": "000000006e81e28e016e841d658c0f82",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3101021108900001",
+                "nipBaru": "199008112020121014",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1990-08-11"
+            },
+            {
+                "id": "A8ACA77301A23912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3175021808730009",
+                "nipBaru": "197308182008011011",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1973-08-18"
+            },
+            {
+                "id": "A8ACA7EEB2723912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3175101208780001",
+                "nipBaru": "197808122008011028",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1978-08-12"
+            },
+            {
+                "id": "A8ACA7ED8FBA3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3173080408830007",
+                "nipBaru": "198308042008011011",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1983-08-04"
+            },
+            {
+                "id": "A8ACA7B0F9D53912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3175071708680024",
+                "nipBaru": "196808171989031013",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1968-08-17"
+            },
+            {
+                "id": "A8ACA7AD85183912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3175072208710001",
+                "nipBaru": "197108221991011002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1971-08-22"
+            },
+            {
+                "id": "A8ACA7AE029C3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3172043108770007",
+                "nipBaru": "197708312007011009",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1977-08-31"
+            },
+            {
+                "id": "2688CB465CBECA73E050640A020276BF",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3173043008720006",
+                "nipBaru": "197208302016051001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1972-08-30"
+            },
+            {
+                "id": "F3C22B4B7BDAB99AE040640A02023B2F",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3172042812800004",
+                "nipBaru": "198012282014121003",
+                "tempatLahir": "BATANG",
+                "tglLahir": "1980-12-28"
+            },
+            {
+                "id": "A8ACA7EE2A7B3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3174102904760006",
+                "nipBaru": "197604292008011019",
+                "tempatLahir": "TANGERANG",
+                "tglLahir": "1976-04-29"
+            },
+            {
+                "id": "A8ACA7B400CC3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3174011408700001",
+                "nipBaru": "197008141998031004",
+                "tempatLahir": "BANDUNG",
+                "tglLahir": "1970-08-14"
+            },
+            {
+                "id": "A8ACA7B681703912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3175011009810006",
+                "nipBaru": "198109102009041005",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1981-09-10"
+            },
+            {
+                "id": "A8ACA7AEB01E3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3174040712790009",
+                "nipBaru": "197912072007011007",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1979-12-07"
+            },
+            {
+                "id": "A8ACA7732BCE3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIAWAN",
+                "nik": "3172023008670008",
+                "nipBaru": "196708302008011009",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1967-08-30"
+            },
+            {
+                "id": "2646F977FE939651E050640A02021A86",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SETIAWAN NABABAN",
+                "nik": "2171090908960003",
+                "nipBaru": "199608192015121002",
+                "tempatLahir": "BATAM",
+                "tglLahir": "1996-08-19"
+            },
+            {
+                "id": "A8ACA7B180C33912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIAWAN SOLICHIEN",
+                "nik": "3172062808630002",
+                "nipBaru": "196308281989111001",
+                "tempatLahir": "JAKARTA SELATAN",
+                "tglLahir": "1963-08-28"
+            },
+            {
+                "id": "A8ACA7BB59503912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIONO",
+                "nik": "3175091108840007",
+                "nipBaru": "198408112009041004",
+                "tempatLahir": "NGAWI",
+                "tglLahir": "1984-08-11"
+            },
+            {
+                "id": "A8ACA74551C63912E040640A040269BB",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS SETIONO",
+                "nik": "3201371508720004",
+                "nipBaru": "197208151993081001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1972-08-15"
+            },
+            {
+                "id": "A8ACA78A3AA83912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SETIYA BUDI KURNIAWAN",
+                "nik": "3471012408880001",
+                "nipBaru": "198808242009121001",
+                "tempatLahir": "YOGYAKARTA",
+                "tglLahir": "1988-08-24"
+            },
+            {
+                "id": "A8ACA780C50F3912E040640A040269BB",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS SETIYADI",
+                "nik": "3175021111780004",
+                "nipBaru": "197811112005011005",
+                "tempatLahir": "BANYUMAS",
+                "tglLahir": "1978-11-11"
+            },
+            {
+                "id": "A8ACA7A511843912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIYAWAN",
+                "nik": "3175060408890002",
+                "nipBaru": "198908042011011005",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1989-08-04"
+            },
+            {
+                "id": "A8ACA7617ADB3912E040640A040269BB",
+                "instansi": "Badan Narkotika Nasional",
+                "nama": "AGUS SETIYAWAN",
+                "nik": "3216092508850002",
+                "nipBaru": "198508252011011009",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1985-08-25"
+            },
+            {
+                "id": "A8ACA79DB3E63912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETIYAWAN",
+                "nik": "3173023006890005",
+                "nipBaru": "198906302011011003",
+                "tempatLahir": "SUKOHARJO",
+                "tglLahir": "1989-06-30"
+            },
+            {
+                "id": "7EEF22EAA80D3DDEE050640A3C03504D",
+                "instansi": "Kementerian Perdagangan",
+                "nama": "AGUS SETIYO UTOMO",
+                "nik": "3175070607950002",
+                "nipBaru": "199507062019021006",
+                "tempatLahir": "BOYOLALI",
+                "tglLahir": "1995-07-06"
+            },
+            {
+                "id": "A5EB0426E244F6A0E040640A040252AD",
+                "instansi": "Pemerintah Provinsi Jawa Timur",
+                "nama": "AGUS SETIYONO",
+                "nik": "3175101608760008",
+                "nipBaru": "197608162008011017",
+                "tempatLahir": "KEBUMEN",
+                "tglLahir": "1976-08-16"
+            },
+            {
+                "id": "A8ACA7AEE0AC3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETRIADY",
+                "nik": "3174091708680008",
+                "nipBaru": "196808172007011062",
+                "tempatLahir": "BOGOR",
+                "tglLahir": "1968-08-17"
+            },
+            {
+                "id": "A8ACA7DCEBA93912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SETYA HARWANTA",
+                "nik": "3404080908820004",
+                "nipBaru": "198208092002121002",
+                "tempatLahir": "SLEMAN",
+                "tglLahir": "1982-08-09"
+            },
+            {
+                "id": "A8ACA7A182863912E040640A040269BB",
+                "instansi": "Kementerian Lingkungan Hidup dan Kehutanan",
+                "nama": "AGUS SETYABUDI",
+                "nik": "3510161408820005",
+                "nipBaru": "198208142006041003",
+                "tempatLahir": "PASURUAN",
+                "tglLahir": "1982-08-14"
+            },
+            {
+                "id": "F3C22412C6A60D7BE040640A020236FF",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETYANTO",
+                "nik": "3174052602760009",
+                "nipBaru": "197602262014081001",
+                "tempatLahir": "BOYOLALI",
+                "tglLahir": "1976-02-26"
+            },
+            {
+                "id": "A8ACA74EDB003912E040640A040269BB",
+                "instansi": "Kepolisian Negara",
+                "nama": "AGUS SETYANTO",
+                "nik": "3674061008850003",
+                "nipBaru": "198508102008011001",
+                "tempatLahir": "PURWOREJO",
+                "tglLahir": "1985-08-10"
+            },
+            {
+                "id": "7F631BB4C878DFFDE050640A3C03A68E",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SETYAWAN",
+                "nik": "3173052008870008",
+                "nipBaru": "198708202019031007",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1987-08-20"
+            },
+            {
+                "id": "A8ACA7C5E4EC3912E040640A040269BB",
+                "instansi": "Kementerian Lingkungan Hidup dan Kehutanan",
+                "nama": "AGUS SETYAWAN",
+                "nik": "3674041708820006",
+                "nipBaru": "198208172008011001",
+                "tempatLahir": "BOYOLALI",
+                "tglLahir": "1982-08-17"
+            },
+            {
+                "id": "A8ACA74A6DC33912E040640A040269BB",
+                "instansi": "Kementerian Sosial",
+                "nama": "AGUS SETYO WIBOWO",
+                "nik": "3216060508770015",
+                "nipBaru": "197708052006041021",
+                "tempatLahir": "SRAGEN",
+                "tglLahir": "1977-08-05"
+            },
+            {
+                "id": "A8ACA79043753912E040640A040269BB",
+                "instansi": "Badan Pengawasan Keuangan dan Pembangunan",
+                "nama": "AGUS SETYONO",
+                "nik": "3216182008760004",
+                "nipBaru": "197608201998111001",
+                "tempatLahir": "MADIUN",
+                "tglLahir": "1976-08-20"
+            },
+            {
+                "id": "C8FAAC93B91BBFDAE050640AF1080703",
+                "instansi": "Kementerian Dalam Negeri",
+                "nama": "AGUS SETYONO",
+                "nik": "3322062709980001",
+                "nipBaru": "199809272021081002",
+                "tempatLahir": "SEMARANG",
+                "tglLahir": "1998-09-27"
+            },
+            {
+                "id": "A8ACA7EB351C3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SHOPIAN",
+                "nik": "3276062005850001",
+                "nipBaru": "198505202010011007",
+                "tempatLahir": "DEPOK",
+                "tglLahir": "1985-05-20"
+            },
+            {
+                "id": "A8ACA790E6C33912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SIGIT NUGROHO",
+                "nik": "3310251012750003",
+                "nipBaru": "197512101996021005",
+                "tempatLahir": "KLATEN",
+                "tglLahir": "1975-12-10"
+            },
+            {
+                "id": "EF9558B7DCF06221E040640A020269D5",
+                "instansi": "Kementerian Hukum dan Hak Asasi Manusia",
+                "nama": "AGUS SIMAMORA",
+                "nik": "3175072708860022",
+                "nipBaru": "198608272014021003",
+                "tempatLahir": "TAPANULI UTARA",
+                "tglLahir": "1986-08-27"
+            },
+            {
+                "id": "A8ACA7464DBB3912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SISWADI",
+                "nik": "3175070501720003",
+                "nipBaru": "197201051992121001",
+                "tempatLahir": "KARANGANYAR",
+                "tglLahir": "1972-01-05"
+            },
+            {
+                "id": "A8ACA7B381E63912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SISWANDI",
+                "nik": "3172040601871001",
+                "nipBaru": "198701062011011011",
+                "tempatLahir": "PEMALANG",
+                "tglLahir": "1987-01-06"
+            },
+            {
+                "id": "EE4965F357EAED7BE040640A02020A23",
+                "instansi": "Kementerian Desa, Pembangunan Daerah Tertinggal dan Transmigrasi",
+                "nama": "AGUS SISWANDI",
+                "nik": "1471081708820001",
+                "nipBaru": "198208172014031004",
+                "tempatLahir": "PEKANBARU",
+                "tglLahir": "1982-08-17"
+            },
+            {
+                "id": "A8ACA749D2363912E040640A040269BB",
+                "instansi": "Kepolisian Negara",
+                "nama": "AGUS SISWANTO",
+                "nik": "3271061204700016",
+                "nipBaru": "197004121994031003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1970-04-12"
+            },
+            {
+                "id": "A8ACA7591A2C3912E040640A040269BB",
+                "instansi": "Kementerian Perhubungan",
+                "nama": "AGUS SITORUS",
+                "nik": "3175020608790008",
+                "nipBaru": "197908062010121001",
+                "tempatLahir": "DELI SERDANG",
+                "tglLahir": "1979-08-06"
+            },
+            {
+                "id": "A8ACA7EB483E3912E040640A040269BB",
+                "instansi": "Kementerian Pemuda dan Olahraga",
+                "nama": "AGUS SLAMET HARYANTO",
+                "nik": "3216020505840006",
+                "nipBaru": "198405052009121001",
+                "tempatLahir": "SEMARANG",
+                "tglLahir": "1984-05-05"
+            },
+            {
+                "id": "A8ACA74A23163912E040640A040269BB",
+                "instansi": "Kepolisian Negara",
+                "nama": "AGUS SLAMET RIYANTO",
+                "nik": "3174021904820009",
+                "nipBaru": "198204192008011001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1982-04-19"
+            },
+            {
+                "id": "A8ACA7EDE3B93912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SOBARI",
+                "nik": "3174012306680007",
+                "nipBaru": "196806232008011017",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1968-06-23"
+            },
+            {
+                "id": "A8ACA7822A103912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SOBIRIN",
+                "nik": "3175082909790001",
+                "nipBaru": "197909292009041004",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1979-09-29"
+            },
+            {
+                "id": "8ae4838e6e5f1025016e5fa9df680e6c",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SOFIAN",
+                "nik": "3173062008900008",
+                "nipBaru": "199008202020121016",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1990-08-20"
+            },
+            {
+                "id": "A8ACA74A8B9D3912E040640A040269BB",
+                "instansi": "Kementerian Sosial",
+                "nama": "AGUS SOFYAN",
+                "nik": "3174081608770004",
+                "nipBaru": "197708162008111001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1977-08-16"
+            },
+            {
+                "id": "A8ACA7B2B88B3912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS SOHAR",
+                "nik": "1871131308760004",
+                "nipBaru": "197608132002121004",
+                "tempatLahir": "PAMPANGAN",
+                "tglLahir": "1976-08-13"
+            },
+            {
+                "id": "38868A11C3D25CE9E050640A2902B8BF",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SOLEH",
+                "nik": "3201201708650008",
+                "nipBaru": "196508172016111001",
+                "tempatLahir": "TEGAL",
+                "tglLahir": "1965-08-17"
+            },
+            {
+                "id": "A8ACA7EB2BEE3912E040640A040269BB",
+                "instansi": "Kementerian Kelautan dan Perikanan",
+                "nama": "AGUS SOLEH",
+                "nik": "3276061508700007",
+                "nipBaru": "197008151998031003",
+                "tempatLahir": "CIREBON",
+                "tglLahir": "1970-08-15"
+            },
+            {
+                "id": "A8ACA7B3CD8E3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SOLEH",
+                "nik": "3175101708700014",
+                "nipBaru": "197008171989101002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1970-08-17"
+            },
+            {
+                "id": "A8ACA77E53B83912E040640A040269BB",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS SOLEHUDDIN",
+                "nik": "3203101207650050",
+                "nipBaru": "196507122009121001",
+                "tempatLahir": "CIANJUR",
+                "tglLahir": "1965-07-12"
+            },
+            {
+                "id": "A8ACA7EB4FC43912E040640A040269BB",
+                "instansi": "Kementerian Kelautan dan Perikanan",
+                "nama": "AGUS SOLIHIN",
+                "nik": "3209301410820004",
+                "nipBaru": "198210142003121001",
+                "tempatLahir": "CIREBON",
+                "tglLahir": "1982-10-14"
+            },
+            {
+                "id": "A8ACA748679D3912E040640A040269BB",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS SOMA",
+                "nik": "3174091808720005",
+                "nipBaru": "197208182009121001",
+                "tempatLahir": "DEPOK",
+                "tglLahir": "1972-08-18"
+            },
+            {
+                "id": "EE47DCC7A436ACE1E040640A020268E5",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS SOPIAN",
+                "nik": "3201122804900001",
+                "nipBaru": "199004282014041002",
+                "tempatLahir": "BOGOR",
+                "tglLahir": "1990-04-28"
+            },
+            {
+                "id": "A8ACA7C417233912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SRI DANARDANA",
+                "nik": "3275032310590015",
+                "nipBaru": "195910231988031002",
+                "tempatLahir": "SRAGEN",
+                "tglLahir": "1959-10-23"
+            },
+            {
+                "id": "A8ACA7EA9EAF3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Jawa Tengah",
+                "nama": "AGUS SRIYANTO",
+                "nik": "3175102708820002",
+                "nipBaru": "198208272010011004",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1982-08-27"
+            },
+            {
+                "id": "A8ACA7BA79CE3912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SRIYANTO",
+                "nik": "3302070908830003",
+                "nipBaru": "198308092009011010",
+                "tempatLahir": "BANYUMAS",
+                "tglLahir": "1983-08-09"
+            },
+            {
+                "id": "A8ACA747C8473912E040640A040269BB",
+                "instansi": "Kepolisian Negara",
+                "nama": "AGUS STIYAWATI",
+                "nik": "3275105208700008",
+                "nipBaru": "197008121990032004",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1970-08-12"
+            },
+            {
+                "id": "A8ACA7EEF3CB3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS STYAWAN",
+                "nik": "3174041908840002",
+                "nipBaru": "198408192008011008",
+                "tempatLahir": "BOYOLALI",
+                "tglLahir": "1984-08-19"
+            },
+            {
+                "id": "F3C20040BE31A487E040640A02021D84",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS STYAWATI",
+                "nik": "3175076808810020",
+                "nipBaru": "198108282014122010",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1981-08-28"
+            },
+            {
+                "id": "A8ACA7AEB0733912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUBAGIO",
+                "nik": "3173041703720012",
+                "nipBaru": "197203172007011029",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1972-03-17"
+            },
+            {
+                "id": "F3C207C175367F70E040640A020221B8",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUBAGIO PRANOTO",
+                "nik": "3174022805660002",
+                "nipBaru": "196605282014121002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1966-05-28"
+            },
+            {
+                "id": "F3C207772B827A5CE040640A020221AC",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUBAGIYO",
+                "nik": "3173062808710011",
+                "nipBaru": "197108282014121004",
+                "tempatLahir": "KLATEN",
+                "tglLahir": "1971-08-28"
+            },
+            {
+                "id": "A8ACA749AAB43912E040640A040269BB",
+                "instansi": "Sekretariat Jenderal MPR",
+                "nama": "AGUS SUBAGYO",
+                "nik": "3276042408770001",
+                "nipBaru": "197708242000031002",
+                "tempatLahir": "BANTUL",
+                "tglLahir": "1977-08-24"
+            },
+            {
+                "id": "A8ACA798BF733912E040640A040269BB",
+                "instansi": "Kejaksaan Agung",
+                "nama": "AGUS SUBANDI",
+                "nik": "3671112003830001",
+                "nipBaru": "198303202006041004",
+                "tempatLahir": "TANGERANG",
+                "tglLahir": "1983-03-20"
+            },
+            {
+                "id": "A8ACA7737B0B3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUBANDRIO",
+                "nik": "3171012208840002",
+                "nipBaru": "198408222008011011",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1984-08-22"
+            },
+            {
+                "id": "A8ACA7F3193A3912E040640A040269BB",
+                "instansi": "Kementerian Dalam Negeri",
+                "nama": "AGUS SUBANDRIYA",
+                "nik": "3674042405820001",
+                "nipBaru": "198205242009121001",
+                "tempatLahir": "KLATEN",
+                "tglLahir": "1982-05-24"
+            },
+            {
+                "id": "A8ACA7A5EC823912E040640A040269BB",
+                "instansi": "Kementerian Perhubungan",
+                "nama": "AGUS SUBANDRIYO",
+                "nik": "3216052208760004",
+                "nipBaru": "197608222007101001",
+                "tempatLahir": "KLATEN",
+                "tglLahir": "1976-08-22"
+            },
+            {
+                "id": "A8ACA7EA9D843912E040640A040269BB",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS SUBARNO",
+                "nik": "3175082811780007",
+                "nipBaru": "197811282003121001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1978-11-28"
+            },
+            {
+                "id": "A8ACA7B9C6A93912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUBEKTI",
+                "nik": "3174091208690013",
+                "nipBaru": "196908122006041019",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1969-08-12"
+            },
+            {
+                "id": "A8ACA7C9AFB23912E040640A040269BB",
+                "instansi": "Kementerian Ketenagakerjaan",
+                "nama": "AGUS SUBEKTI",
+                "nik": "3175092204740004",
+                "nipBaru": "197404221994031001",
+                "tempatLahir": "KUPANG",
+                "tglLahir": "1974-04-22"
+            },
+            {
+                "id": "A8ACA7F6DF613912E040640A040269BB",
+                "instansi": "Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif",
+                "nama": "AGUS SUBHAN MUZAKI",
+                "nik": "3329140808860008",
+                "nipBaru": "198608082009121005",
+                "tempatLahir": "BREBES",
+                "tglLahir": "1986-08-08"
+            },
+            {
+                "id": "A8ACA76028503912E040640A040269BB",
+                "instansi": "Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional",
+                "nama": "AGUS SUBIANTORO",
+                "nik": "3276021608660005",
+                "nipBaru": "196608161990031005",
+                "tempatLahir": "JAKARTA SELATAN",
+                "tglLahir": "1966-08-16"
+            },
+            {
+                "id": "A8ACA7B1B6A73912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUBIJANTONO",
+                "nik": "3201371306670002",
+                "nipBaru": "196706131998031003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1967-06-13"
+            },
+            {
+                "id": "A8ACA773B6A23912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUBIYANTO",
+                "nik": "3173081402820007",
+                "nipBaru": "198202142008011011",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1982-02-14"
+            },
+            {
+                "id": "A8ACA7EE08663912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUBIYANTORO",
+                "nik": "3173081803780006",
+                "nipBaru": "197803182008011016",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1978-03-18"
+            },
+            {
+                "id": "4EAA4EF13967EFD9E050640A29020246",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUCIPTO",
+                "nik": "3175091608750017",
+                "nipBaru": "197508162017081001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1975-08-16"
+            },
+            {
+                "id": "A8ACA7EC5F6F3912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SUCIPTO",
+                "nik": "3173041008850003",
+                "nipBaru": "198508102009011003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1985-08-10"
+            },
+            {
+                "id": "A8ACA7E4B42C3912E040640A040269BB",
+                "instansi": "Kementerian Hukum dan Hak Asasi Manusia",
+                "nama": "AGUS SUCIPTO",
+                "nik": "3171011408790005",
+                "nipBaru": "197908142000121001",
+                "tempatLahir": "MEDAN",
+                "tglLahir": "1979-08-14"
+            },
+            {
+                "id": "000000006e5f105c016e5f745b9e550c",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUCIPTO",
+                "nik": "3328010806854244",
+                "nipBaru": "198506082020121006",
+                "tempatLahir": "TEGAL",
+                "tglLahir": "1985-06-08"
+            },
+            {
+                "id": "A8ACA7B313D03912E040640A040269BB",
+                "instansi": "Kejaksaan Agung",
+                "nama": "AGUS SUCIPTOROSO",
+                "nik": "3520071904850001",
+                "nipBaru": "198504192008121001",
+                "tempatLahir": "MAGETAN",
+                "tglLahir": "1985-04-19"
+            },
+            {
+                "id": "8ae4838d6ea46363016ea72e2b2a27c5",
+                "instansi": "Kementerian Koperasi dan Usaha Kecil dan Menengah",
+                "nama": "AGUS SUDARI",
+                "nik": "3201011008910010",
+                "nipBaru": "199108102020121005",
+                "tempatLahir": "BOGOR",
+                "tglLahir": "1991-08-10"
+            },
+            {
+                "id": "A8ACA7D515593912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SUDARMADI",
+                "nik": "3275082108670008",
+                "nipBaru": "196708211991031002",
+                "tempatLahir": "JAKARTA TIMUR",
+                "tglLahir": "1967-08-21"
+            },
+            {
+                "id": "A8ACA74887253912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS SUDARMAJI",
+                "nik": "3216063108660009",
+                "nipBaru": "196608311990011001",
+                "tempatLahir": "PURWOREJO",
+                "tglLahir": "1966-08-31"
+            },
+            {
+                "id": "A8ACA744BA783912E040640A040269BB",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS SUDARNO",
+                "nik": "3275022204710010",
+                "nipBaru": "197104221996031001",
+                "tempatLahir": "MAGELANG",
+                "tglLahir": "1971-04-22"
+            },
+            {
+                "id": "A8ACA7EDB34D3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUDARSONO",
+                "nik": "3175023008690009",
+                "nipBaru": "196908302008011008",
+                "tempatLahir": "LAMPUNG TENGAH",
+                "tglLahir": "1969-08-30"
+            },
+            {
+                "id": "A8ACA7ED72AB3912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SUDARYANTO",
+                "nik": "3271042101690002",
+                "nipBaru": "196901211994031003",
+                "tempatLahir": "SRAGEN",
+                "tglLahir": "1969-01-21"
+            },
+            {
+                "id": "A8ACA78CA8DA3912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SUDARYANTO",
+                "nik": "3175022608660008",
+                "nipBaru": "196608261986021001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1966-08-26"
+            },
+            {
+                "id": "A8ACA77880A43912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SUDIRO WIBOWO",
+                "nik": "3603181108750002",
+                "nipBaru": "197508111999031002",
+                "tempatLahir": "BANJARBARU",
+                "tglLahir": "1975-08-11"
+            },
+            {
+                "id": "A8ACA7B017233912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUDIYARTO",
+                "nik": "3275022008650015",
+                "nipBaru": "196508201988041001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1965-08-20"
+            },
+            {
+                "id": "A8ACA78A86673912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SUDJATNO",
+                "nik": "3674071010700002",
+                "nipBaru": "197009101992021001",
+                "tempatLahir": "PURWOREJO",
+                "tglLahir": "1970-09-10"
+            },
+            {
+                "id": "A8ACA7B155FB3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUDRAJAT",
+                "nik": "3276050212660001",
+                "nipBaru": "196612021998021001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1966-12-02"
+            },
+            {
+                "id": "A8ACA79074B53912E040640A040269BB",
+                "instansi": "Lembaga Administrasi Negara ",
+                "nama": "AGUS SUDRAJAT",
+                "nik": "3175020408670002",
+                "nipBaru": "196708041990031001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1967-08-04"
+            },
+            {
+                "id": "A8ACA7EB1D403912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SUFYAN",
+                "nik": "3276103008790002",
+                "nipBaru": "197908302005021001",
+                "tempatLahir": "SURABAYA",
+                "tglLahir": "1979-08-30"
+            },
+            {
+                "id": "A8ACA745BA4F3912E040640A040269BB",
+                "instansi": "Kementerian Komunikasi dan Informatika",
+                "nama": "AGUS SUGANDA",
+                "nik": "3276061708650007",
+                "nipBaru": "196508171988021002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1965-08-17"
+            },
+            {
+                "id": "A8ACA7AE7D323912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUGIANTO",
+                "nik": "3674071808740002",
+                "nipBaru": "197408182007011028",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1974-08-18"
+            },
+            {
+                "id": "A8ACA772CC5F3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUGIARTO",
+                "nik": "3173081908760003",
+                "nipBaru": "197608192008011014",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1976-08-19"
+            },
+            {
+                "id": "8ae4838d5df5b34a015e193165c85207",
+                "instansi": "Kementerian Kelautan dan Perikanan",
+                "nama": "AGUS SUGIARTO",
+                "nik": "3172042610910006",
+                "nipBaru": "199110262018011003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1991-10-26"
+            },
+            {
+                "id": "A8ACA75B48183912E040640A040269BB",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS SUGIARTO",
+                "nik": "3175041008670007",
+                "nipBaru": "196708101990031004",
+                "tempatLahir": "CIANJUR",
+                "tglLahir": "1967-08-10"
+            },
+            {
+                "id": "A8ACA74D34AD3912E040640A040269BB",
+                "instansi": "Kepolisian Negara",
+                "nama": "AGUS SUGIARTO",
+                "nik": "3174092608781001",
+                "nipBaru": "197808262011011001",
+                "tempatLahir": "YOGYAKARTA",
+                "tglLahir": "1978-08-26"
+            },
+            {
+                "id": "A8ACA7F04F663912E040640A040269BB",
+                "instansi": "Kementerian Pertanian",
+                "nama": "AGUS SUGIARTO",
+                "nik": "3174091204750009",
+                "nipBaru": "197504122001121002",
+                "tempatLahir": "YOGYAKARTA",
+                "tglLahir": "1975-04-12"
+            },
+            {
+                "id": "A8ACA7F31E053912E040640A040269BB",
+                "instansi": "Kementerian Dalam Negeri",
+                "nama": "AGUS SUGIARTO",
+                "nik": "3174022207700001",
+                "nipBaru": "197007221993031001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1970-07-22"
+            },
+            {
+                "id": "A8ACA7ADBB9D3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUGIH HARTO",
+                "nik": "3275032208690006",
+                "nipBaru": "196908221990031004",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1969-08-22"
+            },
+            {
+                "id": "A8ACA7EB00D33912E040640A040269BB",
+                "instansi": "Badan Nasional Penanggulangan Bencana",
+                "nama": "AGUS SUGIONO",
+                "nik": "3175092908860005",
+                "nipBaru": "198608292009121001",
+                "tempatLahir": "KEDIRI",
+                "tglLahir": "1986-08-29"
+            },
+            {
+                "id": "A8ACA7F310673912E040640A040269BB",
+                "instansi": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+                "nama": "AGUS SUGIONO",
+                "nik": "3174051708680020",
+                "nipBaru": "196808171991021002",
+                "tempatLahir": "JAKARTA PUSAT",
+                "tglLahir": "1968-08-17"
+            },
+            {
+                "id": "A8ACA7AF0B513912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUGITO",
+                "nik": "3174052308680003",
+                "nipBaru": "196808232007011016",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1968-08-23"
+            },
+            {
+                "id": "A8ACA7AD5B8E3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUGIYANTO",
+                "nik": "3175070108660004",
+                "nipBaru": "196608011998031003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1966-08-01"
+            },
+            {
+                "id": "A8ACA7B3BD963912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUGIYATNO",
+                "nik": "3173083008710006",
+                "nipBaru": "197108301994031003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1971-08-30"
+            },
+            {
+                "id": "A8ACA7CA2AEA3912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SUHARJONO",
+                "nik": "1271093108710001",
+                "nipBaru": "197108311992011001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1971-08-31"
+            },
+            {
+                "id": "A8ACA7BB1BC03912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUHARSO",
+                "nik": "3275041112710005",
+                "nipBaru": "197112111999031001",
+                "tempatLahir": "SURAKARTA",
+                "tglLahir": "1971-12-11"
+            },
+            {
+                "id": "A8ACA74428AD3912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SUHARSONO",
+                "nik": "3404123012690006",
+                "nipBaru": "196912311995031001",
+                "tempatLahir": "SLEMAN",
+                "tglLahir": "1969-12-31"
+            },
+            {
+                "id": "A8ACA772E1F43912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUHARTADI",
+                "nik": "3216011408710003",
+                "nipBaru": "197108142008011016",
+                "tempatLahir": "KLATEN",
+                "tglLahir": "1971-08-14"
+            },
+            {
+                "id": "A8ACA7BADB1E3912E040640A040269BB",
+                "instansi": "Kementerian Hukum dan Hak Asasi Manusia",
+                "nama": "AGUS SUHARTO",
+                "nik": "3507270304700011",
+                "nipBaru": "197004031989031001",
+                "tempatLahir": "MALANG",
+                "tglLahir": "1970-04-03"
+            },
+            {
+                "id": "A8ACA7F0FEFE3912E040640A040269BB",
+                "instansi": "Badan Pusat Statistik ",
+                "nama": "AGUS SUHARTO",
+                "nik": "3201130508670001",
+                "nipBaru": "196708051988021001",
+                "tempatLahir": "SRAGEN",
+                "tglLahir": "1967-08-05"
+            },
+            {
+                "id": "A8ACA7CD83053912E040640A040269BB",
+                "instansi": "Kementerian Badan Usaha Milik Negara",
+                "nama": "AGUS SUHARYONO",
+                "nik": "3276101508650004",
+                "nipBaru": "196508151991021001",
+                "tempatLahir": "MALANG",
+                "tglLahir": "1965-08-15"
+            },
+            {
+                "id": "A8ACA7CD5A923912E040640A040269BB",
+                "instansi": "Sekretariat Jenderal DPR RI",
+                "nama": "AGUS SUHENDI",
+                "nik": "3173051708750001",
+                "nipBaru": "197508172007011003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1975-08-17"
+            },
+            {
+                "id": "A8ACA7AE004C3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUHERMAN",
+                "nik": "3275012708710014",
+                "nipBaru": "197108271991031004",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1971-08-27"
+            },
+            {
+                "id": "A8ACA7B590023912E040640A040269BB",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS SUHERMAN",
+                "nik": "3275091310670012",
+                "nipBaru": "196710131991031001",
+                "tempatLahir": "BANDUNG",
+                "tglLahir": "1967-10-13"
+            },
+            {
+                "id": "A8ACA7AE3BBE3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUHERMAN",
+                "nik": "3172041408680003",
+                "nipBaru": "196808142007011031",
+                "tempatLahir": "INDRAMAYU",
+                "tglLahir": "1968-08-14"
+            },
+            {
+                "id": "A8ACA7B0AC573912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUHERMAN",
+                "nik": "3603152908700002",
+                "nipBaru": "197008291996061001",
+                "tempatLahir": "LEBAK",
+                "tglLahir": "1970-08-29"
+            },
+            {
+                "id": "2688CB4658E8CA73E050640A020276BF",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUHERMANTO",
+                "nik": "3175061212680009",
+                "nipBaru": "196812122016051001",
+                "tempatLahir": "BANTUL",
+                "tglLahir": "1968-12-12"
+            },
+            {
+                "id": "A8ACA7EF67BE3912E040640A040269BB",
+                "instansi": "Kementerian Pertanian",
+                "nama": "AGUS SUHERMANTO",
+                "nik": "3174041108840012",
+                "nipBaru": "198408112006041002",
+                "tempatLahir": "KEBUMEN",
+                "tglLahir": "1984-08-11"
+            },
+            {
+                "id": "A8ACA7AFD6CE3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUJANA",
+                "nik": "3173070305710001",
+                "nipBaru": "197105032007011040",
+                "tempatLahir": "CIANJUR",
+                "tglLahir": "1971-05-03"
+            },
+            {
+                "id": "A8ACA7950C873912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Jawa Barat",
+                "nama": "AGUS SUJANA",
+                "nik": "3201102108770002",
+                "nipBaru": "197708212009011001",
+                "tempatLahir": "GARUT",
+                "tglLahir": "1977-08-21"
+            },
+            {
+                "id": "A8ACA75B3AFC3912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SUJENDRO",
+                "nik": "3275091508770014",
+                "nipBaru": "197708151999031001",
+                "tempatLahir": "KULON PROGO",
+                "tglLahir": "1977-08-15"
+            },
+            {
+                "id": "A8ACA7EDD8A63912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUKAMTO",
+                "nik": "3175090212780003",
+                "nipBaru": "197812022008011013",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1978-12-02"
+            },
+            {
+                "id": "A8ACA7B413023912E040640A040269BB",
+                "instansi": "Kementerian Perhubungan",
+                "nama": "AGUS SUKANDA",
+                "nik": "3275021708750035",
+                "nipBaru": "197508172003121001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1975-08-17"
+            },
+            {
+                "id": "A8ACA7B149093912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUKIRNO",
+                "nik": "3174051808690008",
+                "nipBaru": "196908181998031005",
+                "tempatLahir": "KLATEN",
+                "tglLahir": "1969-08-18"
+            },
+            {
+                "id": "A8ACA78D36193912E040640A040269BB",
+                "instansi": "Badan Pengawasan Keuangan dan Pembangunan",
+                "nama": "AGUS SUKISWO",
+                "nik": "3578222104600001",
+                "nipBaru": "196004211985021001",
+                "tempatLahir": "SURABAYA",
+                "tglLahir": "1960-04-21"
+            },
+            {
+                "id": "D15F2E67C741596EE040640A02021E44",
+                "instansi": "Kementerian Lingkungan Hidup dan Kehutanan",
+                "nama": "AGUS SUKMAWAN",
+                "nik": "3271010307760014",
+                "nipBaru": "197607032012121004",
+                "tempatLahir": "BOGOR",
+                "tglLahir": "1976-07-03"
+            },
+            {
+                "id": "B24C437564AAEFB0E040640A020222AE",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUKMONO",
+                "nik": "3174101908770001",
+                "nipBaru": "197708192011071001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1977-08-19"
+            },
+            {
+                "id": "A8ACA7B0D5C93912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUKOCO",
+                "nik": "3308102708620002",
+                "nipBaru": "196208271990021001",
+                "tempatLahir": "KLATEN",
+                "tglLahir": "1962-08-27"
+            },
+            {
+                "id": "A8ACA7B3C6CD3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUKOCO",
+                "nik": "3171012101700003",
+                "nipBaru": "197001211990121001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1970-01-21"
+            },
+            {
+                "id": "A8ACA7BA15213912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SULAEMAN",
+                "nik": "3173062508840003",
+                "nipBaru": "198408252009041004",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1984-08-25"
+            },
+            {
+                "id": "F3C207772BEC7A5CE040640A020221AC",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SULAEMAN",
+                "nik": "3173062109790023",
+                "nipBaru": "197909212014081001",
+                "tempatLahir": "TASIKMALAYA",
+                "tglLahir": "1979-09-21"
+            },
+            {
+                "id": "A8ACA7F361453912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SULAEMAN",
+                "nik": "3175081006860006",
+                "nipBaru": "198606102006021002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1986-06-10"
+            },
+            {
+                "id": "A8ACA7B3B3713912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SULAIMAN",
+                "nik": "3216061802670011",
+                "nipBaru": "196702181996031002",
+                "tempatLahir": "CIANJUR",
+                "tglLahir": "1967-02-18"
+            },
+            {
+                "id": "A8ACA7BA02373912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SULAMTO",
+                "nik": "3175021408710006",
+                "nipBaru": "197108141998021001",
+                "tempatLahir": "KLATEN",
+                "tglLahir": "1971-08-14"
+            },
+            {
+                "id": "A8ACA7A2B50C3912E040640A040269BB",
+                "instansi": "Badan Kependudukan dan Keluarga Berencana Nasional",
+                "nama": "AGUS SULFI",
+                "nik": "3175091410650001",
+                "nipBaru": "196510141990031001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1965-10-14"
+            },
+            {
+                "id": "A8ACA7B6310D3912E040640A040269BB",
+                "instansi": "Badan Pengawas Obat dan Makanan ",
+                "nama": "AGUS SULISNO",
+                "nik": "3175092408780011",
+                "nipBaru": "197808242005011001",
+                "tempatLahir": "NGANJUK",
+                "tglLahir": "1978-08-24"
+            },
+            {
+                "id": "A8ACA74BC14B3912E040640A040269BB",
+                "instansi": "Kementerian Perdagangan",
+                "nama": "AGUS SULISTIYANTO",
+                "nik": "3175020811800010",
+                "nipBaru": "198011082009011007",
+                "tempatLahir": "KLATEN",
+                "tglLahir": "1980-11-08"
+            },
+            {
+                "id": "A8ACA7F2137A3912E040640A040269BB",
+                "instansi": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+                "nama": "AGUS SULISTIYANTO",
+                "nik": "3275050108660009",
+                "nipBaru": "196608012006041004",
+                "tempatLahir": "BANJARNEGARA",
+                "tglLahir": "1966-08-01"
+            },
+            {
+                "id": "A8ACA765BE853912E040640A040269BB",
+                "instansi": "Badan Pengawasan Keuangan dan Pembangunan",
+                "nama": "AGUS SULISTIYO",
+                "nik": "3275011504840044",
+                "nipBaru": "198404152006021004",
+                "tempatLahir": "PURWOREJO",
+                "tglLahir": "1984-04-15"
+            },
+            {
+                "id": "A8ACA74905F43912E040640A040269BB",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS SULISTIYO",
+                "nik": "3201131708810017",
+                "nipBaru": "198108172008121003",
+                "tempatLahir": "SURAKARTA",
+                "tglLahir": "1981-08-17"
+            },
+            {
+                "id": "A8ACA7B0B1033912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SULISTIYONO",
+                "nik": "3175101004660009",
+                "nipBaru": "196604101995031002",
+                "tempatLahir": "GROBOGAN",
+                "tglLahir": "1966-04-10"
+            },
+            {
+                "id": "A8ACA7EB3CB83912E040640A040269BB",
+                "instansi": "Kementerian Kelautan dan Perikanan",
+                "nama": "AGUS SULISTIYONO",
+                "nik": "3174042708850014",
+                "nipBaru": "198508272009011001",
+                "tempatLahir": "KEBUMEN",
+                "tglLahir": "1985-08-27"
+            },
+            {
+                "id": "A8ACA7A3A0ED3912E040640A040269BB",
+                "instansi": "Badan Nasional Penanggulangan Bencana",
+                "nama": "AGUS SULISTIYONO",
+                "nik": "3275100504760014",
+                "nipBaru": "197604052009121001",
+                "tempatLahir": "BOYOLALI",
+                "tglLahir": "1976-04-05"
+            },
+            {
+                "id": "A8ACA7769CD83912E040640A040269BB",
+                "instansi": "Kepolisian Negara",
+                "nama": "AGUS SULISTYAWAN",
+                "nik": "3674052108770009",
+                "nipBaru": "197708212011011001",
+                "tempatLahir": "NGANJUK",
+                "tglLahir": "1977-08-21"
+            },
+            {
+                "id": "A8ACA780560F3912E040640A040269BB",
+                "instansi": "Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional",
+                "nama": "AGUS SULISTYO",
+                "nik": "3172041608841001",
+                "nipBaru": "198408162006041006",
+                "tempatLahir": "GUNUNG KIDUL",
+                "tglLahir": "1984-08-16"
+            },
+            {
+                "id": "A8ACA7B691393912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SULISTYONO",
+                "nik": "3175050508730012",
+                "nipBaru": "197308052009041001",
+                "tempatLahir": "TEGAL",
+                "tglLahir": "1973-08-05"
+            },
+            {
+                "id": "A8ACA78E58633912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SULISTYONO",
+                "nik": "3173022508861001",
+                "nipBaru": "198608252008121004",
+                "tempatLahir": "KEDIRI",
+                "tglLahir": "1986-08-25"
+            },
+            {
+                "id": "A8ACA7E4FED23912E040640A040269BB",
+                "instansi": "Kementerian Perhubungan",
+                "nama": "AGUS SUMAEDI",
+                "nik": "3276072904730002",
+                "nipBaru": "197304291997031002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1973-04-29"
+            },
+            {
+                "id": "A8ACA7F5C4CE3912E040640A040269BB",
+                "instansi": "Kementerian Hukum dan Hak Asasi Manusia",
+                "nama": "AGUS SUMANTO",
+                "nik": "3275040205670017",
+                "nipBaru": "196705021999031001",
+                "tempatLahir": "MADIUN",
+                "tglLahir": "1967-05-02"
+            },
+            {
+                "id": "A8ACA7B188943912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUMANTRI",
+                "nik": "3174090502700005",
+                "nipBaru": "197002052007011044",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1970-02-05"
+            },
+            {
+                "id": "A8ACA74BD30A3912E040640A040269BB",
+                "instansi": "Lembaga Ketahanan Nasional RI",
+                "nama": "AGUS SUMANTRI",
+                "nik": "3175021008780001",
+                "nipBaru": "197808102009011001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1978-08-10"
+            },
+            {
+                "id": "A8ACA7F6D9BA3912E040640A040269BB",
+                "instansi": "Badan Pusat Statistik ",
+                "nama": "AGUS SUMARNA",
+                "nik": "3275111908660001",
+                "nipBaru": "196608191988031001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1966-08-19"
+            },
+            {
+                "id": "A8ACA7AF91DE3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUMARNO",
+                "nik": "3276021408630005",
+                "nipBaru": "196308141984031007",
+                "tempatLahir": "BOGOR",
+                "tglLahir": "1963-08-14"
+            },
+            {
+                "id": "A8ACA7AECF413912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUMARNO",
+                "nik": "3175072108720012",
+                "nipBaru": "197208212007011022",
+                "tempatLahir": "JAKARTA TIMUR",
+                "tglLahir": "1972-08-21"
+            },
+            {
+                "id": "A8ACA74B265B3912E040640A040269BB",
+                "instansi": "Kementerian Kesehatan",
+                "nama": "AGUS SUMARTONO",
+                "nik": "3173020308670003",
+                "nipBaru": "196708032009121001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1967-08-03"
+            },
+            {
+                "id": "A8ACA78D35703912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SUMARWAN",
+                "nik": "3175021208660006",
+                "nipBaru": "196608121986021002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1966-08-12"
+            },
+            {
+                "id": "A8ACA78D4D6C3912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SUMARYANTO",
+                "nik": "3674060403650017",
+                "nipBaru": "196503041992031006",
+                "tempatLahir": "MAGELANG",
+                "tglLahir": "1965-03-04"
+            },
+            {
+                "id": "A8ACA75B2C013912E040640A040269BB",
+                "instansi": "LEMBAGA PENYIARAN PUBLIK TELEVISI REPUBLIK INDONESIA",
+                "nama": "AGUS SUMBODO",
+                "nik": "3171050308680003",
+                "nipBaru": "196808031989031014",
+                "tempatLahir": "JAKARTA PUSAT",
+                "tglLahir": "1968-08-03"
+            },
+            {
+                "id": "A8ACA79129C33912E040640A040269BB",
+                "instansi": "Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional",
+                "nama": "AGUS SUMBOGO",
+                "nik": "3671130103810003",
+                "nipBaru": "198103012008041002",
+                "tempatLahir": "PURWOREJO",
+                "tglLahir": "1981-03-01"
+            },
+            {
+                "id": "A8ACA7D852573912E040640A040269BB",
+                "instansi": "Kementerian Perhubungan",
+                "nama": "AGUS SUMPENA",
+                "nik": "3273032005750006",
+                "nipBaru": "197505202007011001",
+                "tempatLahir": "BANDUNG",
+                "tglLahir": "1975-05-20"
+            },
+            {
+                "id": "A8ACA78AF2503912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SUNARDI",
+                "nik": "3271041208700017",
+                "nipBaru": "197008121990021002",
+                "tempatLahir": "BOGOR",
+                "tglLahir": "1970-08-12"
+            },
+            {
+                "id": "A8ACA78D24253912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SUNARTO",
+                "nik": "3674070511670002",
+                "nipBaru": "196711051986031001",
+                "tempatLahir": "SUBANG",
+                "tglLahir": "1967-11-05"
+            },
+            {
+                "id": "A8ACA7CA05033912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SUNARTO",
+                "nik": "3201030302730004",
+                "nipBaru": "197302031999031001",
+                "tempatLahir": "SLEMAN",
+                "tglLahir": "1973-02-03"
+            },
+            {
+                "id": "A8ACA7B3BF253912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUNARWAN",
+                "nik": "3172040109700006",
+                "nipBaru": "197009011997031005",
+                "tempatLahir": "KLATEN",
+                "tglLahir": "1970-09-01"
+            },
+            {
+                "id": "A8ACA75D26953912E040640A040269BB",
+                "instansi": "Kementerian Agama",
+                "nama": "AGUS SUNARYO",
+                "nik": "3573011008640002",
+                "nipBaru": "196408101988011001",
+                "tempatLahir": "MOJOKERTO",
+                "tglLahir": "1964-08-10"
+            },
+            {
+                "id": "A8ACA7C5F8113912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS SUNARYO",
+                "nik": null,
+                "nipBaru": "197208162007011001",
+                "tempatLahir": "YOGYAKARTA",
+                "tglLahir": "1972-08-16"
+            },
+            {
+                "id": "A8ACA7C6012D3912E040640A040269BB",
+                "instansi": "Kementerian Lingkungan Hidup dan Kehutanan",
+                "nama": "AGUS SUNARYO",
+                "nik": "3172021710670005",
+                "nipBaru": "196710171994031006",
+                "tempatLahir": "SUKOHARJO",
+                "tglLahir": "1967-10-17"
+            },
+            {
+                "id": "EE46E6E5EE45FE04E040640A02023633",
+                "instansi": "Kementerian Perhubungan",
+                "nama": "AGUS SUNARYO HADI SANG PUTRO",
+                "nik": "3216082008860019",
+                "nipBaru": "198608202014021001",
+                "tempatLahir": "BLORA",
+                "tglLahir": "1986-08-20"
+            },
+            {
+                "id": "A8ACA78F9DE83912E040640A040269BB",
+                "instansi": "Kejaksaan Agung",
+                "nama": "AGUS SUNGKONO",
+                "nik": "3174063108830001",
+                "nipBaru": "198308312010121002",
+                "tempatLahir": "CIAMIS",
+                "tglLahir": "1983-08-31"
+            },
+            {
+                "id": "A8ACA7BBFBBD3912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS SUNJARIANTO PAMITRAN",
+                "nik": "3174030608760007",
+                "nipBaru": "197608062010121002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1976-08-06"
+            },
+            {
+                "id": "A8ACA7A9AD0F3912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SUNTORO",
+                "nik": "3172033011810004",
+                "nipBaru": "198111302008021001",
+                "tempatLahir": "KEBUMEN",
+                "tglLahir": "1981-11-30"
+            },
+            {
+                "id": "A8ACA7ECDE693912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUNYOTO",
+                "nik": "3173050108840008",
+                "nipBaru": "198408012010011008",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1984-08-01"
+            },
+            {
+                "id": "FD56C3042EB5304DE040640A030227F5",
+                "instansi": "Kepolisian Negara",
+                "nama": "AGUS SUPANGAT",
+                "nik": "3175082111680005",
+                "nipBaru": "196911212014121001",
+                "tempatLahir": "SRAGEN",
+                "tglLahir": "1969-11-21"
+            },
+            {
+                "id": "A8ACA7EBED043912E040640A040269BB",
+                "instansi": "Badan Kependudukan dan Keluarga Berencana Nasional",
+                "nama": "AGUS SUPARDI",
+                "nik": "3275110705750005",
+                "nipBaru": "197505072009121002",
+                "tempatLahir": "SUMEDANG",
+                "tglLahir": "1975-05-07"
+            },
+            {
+                "id": "A8ACA77413F63912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUPARMAN",
+                "nik": "3173071203670006",
+                "nipBaru": "196703122008011016",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1967-03-12"
+            },
+            {
+                "id": "A8ACA74760FB3912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SUPARTO",
+                "nik": "3275053108670007",
+                "nipBaru": "196708311993101001",
+                "tempatLahir": "D I YOGYAKARTA",
+                "tglLahir": "1967-08-31"
+            },
+            {
+                "id": "A8ACA78AED8B3912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SUPARYONO",
+                "nik": "3174091704710004",
+                "nipBaru": "197104171991121001",
+                "tempatLahir": "YOGYAKARTA",
+                "tglLahir": "1971-04-17"
+            },
+            {
+                "id": "FD569F428E0B9AE1E040640A0302174F",
+                "instansi": "Kepolisian Negara",
+                "nama": "AGUS SUPRAPTO",
+                "nik": "3671061308710004",
+                "nipBaru": "197108132014121003",
+                "tempatLahir": "GUNUNG KIDUL",
+                "tglLahir": "1971-08-13"
+            },
+            {
+                "id": "A8ACA7F5AC7D3912E040640A040269BB",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS SUPRAPTO",
+                "nik": "3174050701700003",
+                "nipBaru": "197001071998031003",
+                "tempatLahir": "PACITAN",
+                "tglLahir": "1970-01-07"
+            },
+            {
+                "id": "F3C22B4B7B80B99AE040640A02023B2F",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUPRATIKNO",
+                "nik": "3216060609770016",
+                "nipBaru": "197709062014081001",
+                "tempatLahir": "PURWOREJO",
+                "tglLahir": "1977-09-06"
+            },
+            {
+                "id": "A8ACA7B5E1D63912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUPRAYITNO",
+                "nik": "3174091908690005",
+                "nipBaru": "196908192009041001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1969-08-19"
+            },
+            {
+                "id": "A8ACA7AECFA13912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUPRIADI",
+                "nik": "3172032208760004",
+                "nipBaru": "197608222007011013",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1976-08-22"
+            },
+            {
+                "id": "A8ACA7AC5BD73912E040640A040269BB",
+                "instansi": "Kementerian Koordinator Bidang Kemaritiman dan Investasi",
+                "nama": "AGUS SUPRIADI",
+                "nik": "3275030408730008",
+                "nipBaru": "197308042006041002",
+                "tempatLahir": "KEBUMEN",
+                "tglLahir": "1973-08-04"
+            },
+            {
+                "id": "A8ACA7468E293912E040640A040269BB",
+                "instansi": "Sekretariat Jenderal MPR",
+                "nama": "AGUS SUPRIADI",
+                "nik": "3201131708780002",
+                "nipBaru": "197808172007011007",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1978-08-17"
+            },
+            {
+                "id": "A8ACA7EDF3633912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUPRIANTO",
+                "nik": "3671091810780003",
+                "nipBaru": "197810182008011019",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1978-10-18"
+            },
+            {
+                "id": "A8ACA74756EA3912E040640A040269BB",
+                "instansi": "Kementerian Perindustrian",
+                "nama": "AGUS SUPRIANTO",
+                "nik": "3173072808700007",
+                "nipBaru": "197008281990031003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1970-08-28"
+            },
+            {
+                "id": "A8ACA74C6E5C3912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SUPRIANTO",
+                "nik": "3173070211860004",
+                "nipBaru": "198611022010121004",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1986-11-02"
+            },
+            {
+                "id": "A8ACA7459F6A3912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SUPRIANTO",
+                "nik": "3175061608850014",
+                "nipBaru": "198508162009011005",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1985-08-16"
+            },
+            {
+                "id": "A8ACA7E56EB73912E040640A040269BB",
+                "instansi": "Kementerian Hukum dan Hak Asasi Manusia",
+                "nama": "AGUS SUPRIANTO",
+                "nik": "3174052408860001",
+                "nipBaru": "198608242007031001",
+                "tempatLahir": "BANYUMAS",
+                "tglLahir": "1986-08-24"
+            },
+            {
+                "id": "A8ACA7D8A5173912E040640A040269BB",
+                "instansi": "Kementerian Energi dan Sumber Daya Mineral",
+                "nama": "AGUS SUPRIANTO",
+                "nik": "3276031908720006",
+                "nipBaru": "197208192007011001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1972-08-19"
+            },
+            {
+                "id": "A8ACA7B4653B3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUPRIATNA",
+                "nik": "3174090604720006",
+                "nipBaru": "197204061993031005",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1972-04-06"
+            },
+            {
+                "id": "0EDB7FF424D4422BE050640A1502694F",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUPRIATNA",
+                "nik": "3211111203870005",
+                "nipBaru": "198703122015041002",
+                "tempatLahir": "SUMEDANG",
+                "tglLahir": "1987-03-12"
+            },
+            {
+                "id": "A8ACA74A4E223912E040640A040269BB",
+                "instansi": "Kepolisian Negara",
+                "nama": "AGUS SUPRIYA",
+                "nik": "3175101906670003",
+                "nipBaru": "196706192007011009",
+                "tempatLahir": "KULON PROGO",
+                "tglLahir": "1967-06-19"
+            },
+            {
+                "id": "A8ACA7AFF6523912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUPRIYADI",
+                "nik": "3173031508640002",
+                "nipBaru": "196408151988081003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1964-08-15"
+            },
+            {
+                "id": "A8ACA75B22743912E040640A040269BB",
+                "instansi": "Kementerian Keuangan",
+                "nama": "AGUS SUPRIYADI",
+                "nik": "3671111903690003",
+                "nipBaru": "196903191998031003",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1969-03-19"
+            },
+            {
+                "id": "A8ACA7C4492F3912E040640A040269BB",
+                "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+                "nama": "AGUS SUPRIYADI",
+                "nik": "3276041608750003",
+                "nipBaru": "197508162007011001",
+                "tempatLahir": "SUBANG",
+                "tglLahir": "1975-08-16"
+            },
+            {
+                "id": "A8ACA7EAD0453912E040640A040269BB",
+                "instansi": "Kementerian Pertahanan",
+                "nama": "AGUS SUPRIYADI",
+                "nik": "3175082201700003",
+                "nipBaru": "197001222003121002",
+                "tempatLahir": "SURABAYA",
+                "tglLahir": "1970-01-22"
+            },
+            {
+                "id": "A8ACA7817E5B3912E040640A040269BB",
+                "instansi": "Kementerian Energi dan Sumber Daya Mineral",
+                "nama": "AGUS SUPRIYADI",
+                "nik": "3172022908740014",
+                "nipBaru": "197408291994031002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1974-08-29"
+            },
+            {
+                "id": "A8ACA74835D13912E040640A040269BB",
+                "instansi": "Badan Riset dan Inovasi Nasional",
+                "nama": "AGUS SUPRIYADI",
+                "nik": "3674040909660001",
+                "nipBaru": "196609092006041013",
+                "tempatLahir": "CIAMIS",
+                "tglLahir": "1966-09-09"
+            },
+            {
+                "id": "A8ACA7813D513912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUPRIYADI",
+                "nik": "3174090708730010",
+                "nipBaru": "197308072009041002",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1973-08-07"
+            },
+            {
+                "id": "A8ACA7B9B59A3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUPRIYADI",
+                "nik": "3174091908860009",
+                "nipBaru": "198608192010011006",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1986-08-19"
+            },
+            {
+                "id": "F3C24F68C01A4354E040640A02025527",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUPRIYADI",
+                "nik": "3175020308840011",
+                "nipBaru": "198408032014121001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1984-08-03"
+            },
+            {
+                "id": "A8ACA7EDFAE93912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUPRIYADI",
+                "nik": "3276060808840008",
+                "nipBaru": "198408082008011014",
+                "tempatLahir": "DEPOK",
+                "tglLahir": "1984-08-08"
+            },
+            {
+                "id": "A8ACA7B9780C3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUPRIYADI",
+                "nik": "3173011708820022",
+                "nipBaru": "198208172009041007",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1982-08-17"
+            },
+            {
+                "id": "A8ACA7B181B43912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUPRIYANTO",
+                "nik": "3671093108670002",
+                "nipBaru": "196708311987031001",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1967-08-31"
+            },
+            {
+                "id": "A8ACA7B437FF3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUPRIYANTO",
+                "nik": "3275033008660017",
+                "nipBaru": "196608301991031004",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1966-08-30"
+            },
+            {
+                "id": "A8ACA7EE072E3912E040640A040269BB",
+                "instansi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+                "nama": "AGUS SUPRIYANTO",
+                "nik": "3171010908760005",
+                "nipBaru": "197608092008011014",
+                "tempatLahir": "JAKARTA",
+                "tglLahir": "1976-08-09"
+            }
+        ]
+    ],
+    "error": false,
+    "message": "success",
+    "numPages": 1,
+    "numSource": 500,
+    "sortType": ""
+}
